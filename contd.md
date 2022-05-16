@@ -1,25 +1,5 @@
 ## **My Testimony**
 ***
-### **What is this?**
-It's not
-1. representative of everyone else's experience
-2. a guide on becoming straight
-3. a publicity stunt
-4. an attack in any way on any individual
-5. a sob story
-6. theological debate
-7. a finished story
-
-It is
-	well, I don't want to give everything away immediately, so I'll just say:
-1. my story of a struggle with sexuality and finding God/peace
-2. a way to confront the shame and misconception about this topic
-
-Why?:
-1. God's leading
-2. To be helpful/relatable to others who are where I once was
-3. to combat the shame around this topic
-4. To simplify a 3-hour conversation when I come out to another person
 
 I know myself to be verbose, so although I feel like my experience could fill my own, little, probably poorly-written book, I'll try my best to be brief without taking away from the story. Also, I want to reiterate that I value transparency in my story above all else. I wouldn't want to exclude my blunders in my story just to make a more powerful testimony, because then the message is built on partial truths. This also applies when I talk about other's involvement in my life. I have done my best to give the full truth without pointing fingers at any individual (that is not protected by anonymity).
 #### **Intro**
@@ -32,21 +12,21 @@ My first impression of the United States was the midday heat of Atlanta Georgia 
 Due to the summer programs that my father organized for students, he tended to not be around during the times that I was at home from school the most. Thus, although I realized that I had caring parents, and was lucky to have both parents for that matter, I never had a deep relationship with my father. He was great at providing for our family and instilling good work ethic, productivity, and a healthy respect for God, but sometimes spending time with him seemed to be more centered around discipline and less around enjoying things together. I definitely have great memories of spending time with my father, but very few of them are from my first few years in the Tennessee.  
 Besides the school I lived at, our home church was also quite conservative. And I don't necessarily mean this in a bad way. There were many good things that came of the environment I grew up in. I spent much of my time outdoors. I was schooled in various basic aspects of Christian theology at a young age. The church I attended was so supportive of the elementary school I attended that many of my friends went there only because the church paid their tuition. One of the most touching moments engrained in my mind was the way my "conservative school" came together after a fire left only a little hill and a concrete slab where my home used to be. Neighbors and church members brought together enough spare furniture and household items to fill the academy's gymnasium. I was blown away when I got to pick up new toys and pick out a new sofa for the living room in the house the school gave us as a replacement. However, this same environment proved quite detrimental to me in many avoidable ways.  
 
-#### **Into the dark**
+#### **Figuring it Out**
 Not much happened between the day my life was flown across the Atlantic and my next vivid memory less than a year later. I was quite excited when my grandma, by far my closest friend among extended family, decided to visit us. My parents went to Atlanta to meet her, and to spare me a lengthy trip that I was not yet prepared to handle (everything feels much closer in Czech), they left me with the neighbors. I was particularly close friends with a boy just a year my elder. Though he always seemed more rowdy than I, we really enjoyed "out-jumping" each other on his trampoline and forging new trails together. In many ways, I looked up to him.
-At some point that weekend, his mom told him to clean his room up, so we started putting all the toys on the shelves (and probably more in the closet). It was when I was crawling down from the loft bed we shared that he motioned me over to his dresser. Suddenly, I froze as he proceeded to expose himself to me. I now know of stories where the boy in my shoes turned and ran the other way. Stories where, despite all the right intentions, the stronger took advantage of the weaker. I wish I could say that I, too, left that encounter trying to forget it (or, even better, ran to adults for help). Rather, I remember not initially understanding what I was seeing (I wouldn't claim to have been a bright child), and then becoming very curious after several hours. What was that?  I didn't know, but it turned out that when he presented the opportunity again, I was willing to take the risk to find out. I have no need to go into graphic detail, but while I was curious to experience something new,  there were things that he asked of me that I was thoroughly uncomfortable with. Sadly, with perfect hindsight, they clearly point to his own molestation in the past.
+At some point that weekend, his mom told him to clean his room up, so we started putting all the toys on the shelves (and probably more in the closet). It was when I was crawling down from the loft bed we shared that he motioned me over to his dresser. Suddenly, I froze as he proceeded to expose himself to me. I now know of stories where the boy in my shoes turned and ran the other way. I wish I could say that I, too, left that encounter trying to forget it (or, even better, ran to adults for help). Rather, I remember not initially understanding what I was seeing (I was unprepared for any sort of sexual encounter), and then becoming very curious after several hours. What was that?  I didn't know, but it turned out that when he presented the opportunity again, I was willing to take the risk to find out. I have no need to go into graphic detail, but while I was curious to experience something new, there were things that he asked of me that I was thoroughly uncomfortable with. Sadly, with perfect hindsight, I now see how they clearly point to his own molestation in the past.
 
 A little later, when his dad came into his room and asked us how we were doing, while my friend kept his resolve, I was immediately overwhelmed with guilt and blurted out how we were really doing. After what seemed like a several-hour long interrogation and lecture about "never doing something like that again," we were set loose to go play again. When my parents came to pick me up the next day, my mom confronted me about what the neighbors told her. After getting scolded for hiding things from her and being reminded that Jesus was always watching, I spent the rest of my afternoon curled up on my bed praying, in shame, that Jesus would forgive me for what I had allowed myself be a part of.  
 
 For a long time, that day was not summoned to memory as I went to school and chased adventure into the forest surrounding our community. It's extremely hard to pinpoint a day or location where I first remember being different from other boys, but in retrospect I can see that by my tenth birthday party I wanted to be emotionally closer to my friends at my sleepover than they wanted to be to me.  
 I began to notice the guys in my class much more than the girls as early as fourth grade. I remember several of my classmates in particular who I developed feelings for without realizing that it was happening. I didn't resent myself for it. I had not yet had any indication that what I was experiencing wasn't the norm for boys my age. I wasn't thinking "I must be gay" back then. Rather, I believed I just wasn't cool enough, which was true to some degree. I wasn't as physical or aggressive as my peers.  
-The story of how I realized I was attracted to boys is somewhat unconventional and counterintuitive. As a naive eleven-year-old who thought he knew the bible inside and out, I would pick fights with the LGBT community on social media. Of course, my arguments about homosexuality being a sin and God despising homosexuals were intellectually inferior to that of someone twice my age who knew how to use Google to find scientific papers. That phase didn't last long. During one night at a close friend's house (let's call him Luke), Luke asked to borrow my iPod so he could show me something. While handing it back to me, I noticed "naked women" in the Google Images search bar, and I didn't need a second glance to be horrified at the results. I may have surprised him by shutting down that experience immediately, but I surprised myself more a few weeks later when I looked for pictures of naked guys in the same manner. Luckily, my parents confiscated my iPod after noticing that I was playing a video game on it one evening and I did not develop any sort of addiction at so young an age.  
+The story of how I realized I was attracted to boys is somewhat unconventional and counterintuitive. As a naive eleven-year-old who thought he knew the bible inside and out, I would pick fights with the LGBT community on social media. Of course, my arguments about homosexuality being a sin and God despising homosexuals were intellectually inferior to that of someone twice my age who knew how to use Google to find scientific papers. That phase didn't last long. During one night at a close friend's house, Luke asked to borrow my iPod so he could show me something. While handing it back to me, I noticed "naked women" in the Google Images search bar, and I didn't need a second glance to be horrified at the results. I may have surprised him by shutting down that experience immediately, but I surprised myself more a few weeks later when I looked for pictures of naked guys in the same manner. Luckily, my parents confiscated my iPod after noticing that I was playing a video game on it one evening and I did not develop any sort of addiction at so young an age.  
 
 However, I quickly began to realize that I wanted deeper, more personal friendships with my male friends. While they swooned over the single girl in their grade level (I attended a very small private school) I found that I could not relate. Instead, I would listen and compare the feelings they had for the girls with the ones I felt for them. I was the odd boy out. Eventually, Luke and my short venture into pornography opened the door to more experimentation. First I was asked to sext (well, okay, all I had was a gmail back then) and then to experiment with him physically. Soon, I didn't need to be encouraged every time and sometimes I would even be more the instigator than the obedient younger follower.  
 
 Although I was definitely curious at this time, I was simultaneously quite unhappy about my feelings for guys. It didn't take me long to connect the dots from my feelings and rising hormones to a quick Google search that told me I was gay. Suddenly, I wasn't arguing with people on social media that "the homosexuals" belonged in hell. Mercifully, whatever hate speech I couldn't personally find and remove was eventually deleted along with all of Google's failed attempt at social media. Thus before I was 12, I was already well-aware of my orientation and entered into a mental conflict that would continue to haunt me for over a decade.
 
-#### **In the closet**
+#### **Shaping My Understanding**
 One summer evening after my new self-realization, I remember helping serve dinner and then carrying everyone's dirty dishes away. My sister joked "Ac is being so nice lately. He's must have, like, gotten a girl pregnant and is just being super nice before you guys find out about it." My parent's laughed while I cringed. I remember thinking *I wish I had feelings like that for a girl. It would be so much better than the feelings I am really experiencing.* In addition to beginning to have doubts about what my attraction to boys meant, I was beginning to feel more distant from my dad. Most of the things he seemed to enjoy doing, such as fixing cars and wrestling (father, please fill in something here, I don't think wrestling is the best example) I found no interest in. Instead, I was more likely to play with my sister's polly pockets or don a dress she gave me to amuse myself. This was completely unintentional from both sides, but it still had a lasting impact. Perhaps because my father never had much of a father figure in his life, he didn't know how to reach me himself. I wouldn't be left on uncertain ground with my father for long, however.
 
 One evening my mom summoned me to my parent's bedroom. As soon as I saw my father's face, I knew I was in trouble. "What is this?" my father pointed to his laptop. He was looking at some of my more explicit emails with Luke. I stumbled over my words as guilt surrounded me. I can never recall getting any sort of sex-ed from my parents, but I knew enough from my environment to know that I wasn't supposed to talk dirty with friends, let alone sexually. My father pointed to more emails. Between my apologies and mental gymnastics to try to extricate myself from an incredibly uncomfortable situation, I claimed that it meant nothing and that they were just jokes or bad ideas between the two of us. I'm not sure if my parents were crying, but I know I was. It was emotional, but I didn't try too hard to hold it in since I hoped it would decrease my punishment (and to be clear my parents didn't dole out unreasonable punishment. I was probably grounded from the family computer for a month or something). I left scolding myself for being careless enough to engage in prohibited activities where my parents might see them. I aimed to be more careful next time.
@@ -65,19 +45,72 @@ Some of you who read this may be surprised or disgusted that I just accepted a p
 "Mhmmm"  
 "You want to have a wife and kids someday"  
 "Of course"  
-"Mommy and I talked and we decided that we are going to find professional help for you so you can figure out these confusing feelings."  
+"Mommy and I talked and we decided that we are going to find professional help for you so you can figure out these confused feelings."  
 "Okay"  
-I wasn't used to seeing my dad cry, but back then, I thought I understood why this occasion was so significant to him. I tried to imagine what it would be like to realize that I had helped give life to someone who embodied what I found the most distasteful. My parents found a private [Adventist?] therapy center in a nearby city and booked a therapist for me weekly. 
+"And don't tell anyone else about this. Like especially don't talk to grandma and grandpa about this. I'm not sure if they could take it at their age."  
+
+I wasn't used to seeing my dad cry, but back then, I thought I understood why this occasion was so significant to him. I tried to imagine what it would be like to realize that I had helped give life to someone who embodied what I found the most distasteful. My parents found a private therapy center in a nearby city and booked a weekly meeting with a therapist for me. 
 To the best of my recollection, my father had never been physically abusive before or since. And, he did actually come and apologize the next day, but I wasn't ready to forgive. I was just beginning to process and cope with the ideas and fits that hit me the day prior. My mom seemed to support my father in whatever he did so I didn't come to her for any comfort. I wasn't used to getting help from my parents.  
 I don't mean that my parents neglected me emotionally, I think they would have listened if I had talked to them more before, but emotions were never discussed in our home and I definitely didn't start when I began having feelings for guys. Furthermore, I was accustomed to taking care of my academics by myself. By the fifth or sixth grade I was naturally better versed in English than both of my parents and I had never really asked for help in other subjects either. Thus when my unchosen feelings for boys my age made both of my parents cry and caused me father to hurt me, I decided that if I had no connection with them then they couldn't hurt me emotionally. I set out to stop caring about what my parents, especially my father, thought about me. This strategy proved to be almost too successful. I can't say that anything my parents did or said after that ever made an emotional difference especially regarding my sexuality.  
 
-I had read stories about gay conversion therapy camps and some of the more conservative Exodus-affiliated ministries and was justifiably horrified when I heard I was going to see a therapist. Although not good, my experience was thankfully nothing like a story out of *Boy Erased* or *Stranger at the Gate*. I was relieved at the absence of electric shock therapy machinery or verses from Leviticus in picture frames. I admit I wasn't an easy thirteen-year-old to work with, but I had my doubts about the bald man with a million questions. One of the success stories he boasted was about a gay man who had come to him six or seven years prior and had finally purged himself of all sexual attractions. Now he wasn't attracted to anyone. If asexuality wasn't a worthy goal, what was, right? I silently wished for that but decided not to let it show. I went in and out of therapy every Tuesday with the same thick book on Godly Marriage and the same insurmountable determination. I didn't want help from someone who had studied sexuality. I wanted someone who could relate to what I was going through, but my therapist wasn't that person.  
-Unfortunately, my friends in junior high also became a source that supported my growing self-hatred. Comments among the brand-new teens often attacked any form of same-sex attraction. Many of my friends would cat call each other and slap each other on the crotch. Although as far as I know I was the only gay one, I was also often the only one uncomfortable with that behavior. My early introduction to and interest in sexual activity reversed when it was made abundantly clear that being gay was just about the worst thing that could happen to you. Since I was being taken out of school every Tuesday for therapy, it took less than a month for my then best friend and first crush in seventh grade [eighth grade?] to figure out what was going on. First he started theorizing that I was going to get help with some mental health issue, then specifically that it was for being gay. Support or safe to talk to would have been nice at this point, but instead one of the first friends I made when I arrived in the United States did his best to turn on me.  
-First he was just teasing me, then making jokes and name calling either to my face or by using his sister as a messenger. As he grew more relentless over several months I decided to implement a strategy I had only been taught in church. Repay evil with good. I tried very hard to be nice to him every time he reminded me how disgusting I was. Miraculously, this either confused him or wore away at his resolve to hate me because the following fall he gave in and decided to be friendly again.  
+I had read stories about gay conversion therapy camps and some of the more conservative Exodus-affiliated ministries and was justifiably horrified when I heard I was going to see a therapist that specialized in cases like mine. Although not good, my experience was thankfully nothing like a story out of *Boy Erased* or *Stranger at the Gate*. I was relieved at the absence of electric shock therapy machinery or verses from Leviticus in picture frames. I admit I wasn't an easy thirteen-year-old to work with, but I had my doubts about the bald man with a million questions. One of the success stories he boasted was about a gay man who had come to him six or seven years prior and had finally purged himself of all sexual attractions. Now he wasn't attracted to anyone. If asexuality wasn't a worthy goal, what was, right? I silently wished for that but decided not to let it show. I went in and out of therapy every Tuesday with the same thick book on Godly Marriage and the same insurmountable determination. I didn't want help from someone who had studied sexuality. I wanted someone who could relate to what I was going through, but my therapist wasn't that person.  
+Unfortunately, my friends in junior high also became a source that supported my growing self-hatred. Comments among the brand-new teens often attacked any form of same-sex attraction. Many of my friends would cat call each other and slap each other on the crotch. Although as far as I know I was the only gay one, I was also often the only one uncomfortable with that behavior. My early introduction to and interest in sexual activity reversed when it was made abundantly clear that being gay was just about the worst thing that could happen to you. Since I was being taken out of school every Tuesday for therapy, it took less than a month for my then best friend and first crush in eighth grade, Jack, to figure out what was going on. First he started theorizing that I was going to get help with some mental health issue, then specifically that it was for being gay. Support or someone to safely talk to would have been amazing at this point, but instead my best friend throughout elementary school turned on me.  
+First he was just teasing me, then making jokes and name calling either to my face or by using his sister as a messenger. As he grew more relentless over several months I decided to implement a strategy I had only been taught in church. Repay evil with good. I tried very hard to be nice to him every time he reminded me how disgusting I was. Miraculously, this either confused him or wore away at his resolve to hate me because the following school year he gave in and decided to be friendly again. At this point, though, I was fully aware of how disgusting and broken I was and began to embody the treatment and fear I had received.  
 
-I tell this part of my story in specific detail because it is a good example of some of the most painful reactions I received from my closest friends when I confided in them. As I finished elementary school (I stayed there through ninth grade), the message I received from my environment was unanimous. Being attracted to other boys was a sin. Moreover, it was worse than any other sin. There were almost certainly church members who would have been caring and non-judgmental if I had come to them, but I was already too afraid to tell anyone. I had never ever heard the topic discussed in a civil manner and the adults that knew at that point all advised me to keep my sexuality secret. At least until it could be fixed. And even then it was likely something I wanted to bury as deep as possible in my past.  
-"Okay, well we just want to ask that you don't talk to grandma and grandpa about this. I'm not sure if they could take it at their age."  
-"Well, whatever you do, you shouldn't talk about this. It's pretty shameful."  
+I tell this part of my story in specific detail because it is a good example of some of the most painful reactions I received from my closest friends when I confided in them. As I finished elementary school (I stayed there through ninth grade), the message I received from my environment was unanimous. Being attracted to other boys was a sin. Most destructive was the follow-up message: it was worse than any other sin. There were almost certainly church members who would have been caring and non-judgmental if I had come to them, but at this point I was too afraid to tell anyone. I had never ever heard the topic discussed in a civil manner and the adults that knew at that point all advised me to keep my sexuality secret. At least until it could be fixed. And even then it was likely something I wanted to bury as deep as possible in my past.  
+"Well, whatever you do, you shouldn't talk about this. It's shameful."  
+
+The single problem that most fundamentally scarred me at this age was other's ability to nonchalantly dehumanize gay people. It's a tactic that is used all the time in films. Villains are dehumanized to encourage viewers to want to see the villains destroyed. A more serious and real example is when Nazis dehumanized Jews in WWII. It happens today and in some cases opens the door to genocide. In other cases it allows for extreme hatred of people with certain characteristics associated with skin color, culture, or sexual orientation.  
+I found myself in an environment that generally dehumanized queer people. The first form of dehumanization was ignorance. The majority of the people I knew up until the age of seventeen would rather pretend that I and others in the queer community didn't exist. When people did talk about it they assumed that there was no one around them was gay. Thus my community used language such as *those people*, *the homosexuals*, *fags*.  
+My mindset at this stage can be best described by one of my many prayers that I can still clearly recall. One day over summer break, I became especially worried about my increasing interest in boys. I decided to try to pray about it again and dashed outside to pray in my hammock in the middle of the night. Instead of a prayer for deliverance, this time I prayed, "Dear God, you saw me struggling with my thoughts today. I don't why, but something is wrong with me. I've tried so hard not to think about guys, but I can't seem to get any better. I know you didn't make heaven for people like me, and I know that I'm not going to be going there, but that's okay. All I ask is that even though I belong in hell, if you could please use me to help get other people to be in heaven, that could make my time worthwhile on earth. That would make me happy. Amen."
+
+#### **Failing to be Straight**
+By the age of fifteen, my experience had taught me that even when my family and friends saw that I was gay, they either believed I needed to be cured, or worse, that I was suddenly a threat to them. Clearly I had to keep it a secret. The problem was, most of the people in my school already knew that I was gay. Or at least they had heard rumors due to all the things Jack had said about me. [Moreover, Luke was in the area and it was still difficult for me to resist sexually experimenting with him.]  
+Thus, when my father decided to move to Collegedale, I felt as if I had been handed a blank slate to build up my life and reputation on again. A reputation that did not include my sexuality. I set out to do just that. I focused my efforts towards my academics and friends. I tried to believe I was straight. I even embraced a new name, "Ac".  
+
+Connection w/ best friend broke down
+I set out to make myself straight so I could be on God's side again someday.
+I just left God behind, since he hated me.
+I grew comfortable with my own death.
+Until then I was a watered-down incarnation of evil.
+
+Feeling Straight 101:  
+pray the gay away >> no more emotions >> didn't work  
+hate it away >> didn't work >> self-disgust  
+looking in a mirror, I wondered if castrating myself somehow would solve it  
+self-control >> don't look >> don't touch >> don't feel, anything  
+almost lyrics from Let it Go - "Conceal don't feel, don't let them know"  
+I became extremely good at hiding all of myself.  
+I tried to not think at all about guys  
+I remember sitting in class trying not to make any "gay" movements >> didn't work  
+I tried to condition myself to be afraid of anything gay by physically harming myself if I found a guy attractive. applied to being close to guys emotionally  
+I tried to ignore it away. flawed logic >> became addicted to school  
+  
+spent about 7 years trying to be straight, with sophomore and junior year most intense  
+I came out to 1 person after 1 year, which went horribly  
+at this point I felt as if I could not ever be loved   
+the lowest point was when I sat in my room after realizing that ignoring my gayness wasn't working. I thought about different ways to kill myself  
+I decided that it was worth the risk and as I confided in a few more friends, I was surprised at the first few that loved me  
+this slowly began to change my self perception  
+  
+#### Paradigm Shift
+by the end of highschool  
+I made a few friends and learned to stop caring what the world thought about me  
+I felt like I had some sort of future and a lot of joy in life as long as I ignored my sexuality and stayed away from God  
+I did my best to reject the dehumanization the church placed on me  
+I could take care of myself  
+but there were people who loved me despite my sexuality  
+some were confused that I was gay and their perception of queer people became more human  
+if they loved me, and they knew God, maybe I could give God a chance  
+  
+God gave me the desire to get to know Him in college  
+the shame and hate I had experienced in His church fell away  
+after more contemplation, and self-love I prayed  
+"God, just lmk, can I expect to be straight in the future?" The closest thing to a response I got from God was "no, being straight is not your goal, just follow me and that's gotta be enough for you"  
+as I got to know Him better, I learned to love myself and be comfortable in my own skin. it was a process though.  
+at no point did a switch flip in me
+I began to find more relatable stories and resources that supported the conclusions I had come to in college.  
+I gained much more confidence and eventually felt God pushing me to come out to fight back against the shame and misinformation that had ruled my life for so long  
 
 
 
@@ -88,22 +121,21 @@ I tell this part of my story in specific detail because it is a good example of 
 
 
 
-
-Mapping:
-Age	Grade  
-7		1  
-8		2  
-9		3  
-10	4  
-11	5  
-12	6  
-13	7  
-14	8  
-15	9  
-16	10  
-17	11  
-18	12  
-19	Freshman  
-20	Sophomore  
-21	Junior  
-22	Senior
+|Age|Grade|
+|-|-|
+|7|1|
+|8|2|
+|9|3|
+|10|4|
+|11|5|
+|12|6|
+|13|7|
+|14|8|
+|15|9|
+|16|10|
+|17|11|
+|18|12|
+|19|Freshman|
+|20|Sophomore|
+|21|Junior|
+|22|Senior|-
