@@ -1,6 +1,6 @@
 ## resources on sexuality
 ***
-### recommended reads ★✭☆
+### recommended reads
 * **Single Gay Christian**  
 	Gregory Coles | ★★★★✭  
 	*About*: Greg's testimony growing up gay and christian. Shows the emotional and logical development of a boy in the twenty-first century church that finds himself undeniably liking other guys. Shows how he found joy in life through his unique struggle and calling.  
@@ -33,6 +33,11 @@
 	*Opinion*: decent. It didn't really hurt to read but may be a good resource for pastors.
 
 ### insightful
+* **Homosexuality and the Christian**
+  	Mark A Yarhouse | ★★★☆☆  
+	*About*: What are the different aspects and expressions of one's same-sex-attractedness? This book suggests a framework and gives advice to individuals in all types of situations surrounding the queer community. From mixed-orientation marriage, to healthy responses to young or adult children coming out, Yarhouse attempts to give solid advice based on experience and research.  
+	*Theological Perspective*: Homosexuality and gay identity are not part of God's design and should not be supported just as other sin should not be supported. Those struggling in these areas, however, need great support, and so do those around them.  
+	*Opinion*: This one surprised me by having relatively decent advice to parents and queer individuals coming from a traditional, non-affriming background. I do not really agree with Yarhouse's fundamental dichotomy of gay attraction, orientation, and identity. I feel like I fit outside of this and many others I know do too.  
 * **Washed & Waiting**  
 	Wesley Hill | ★★★☆☆  
 	*About*: What does honoring God with my sexuality look like if I'm gay? The daily struggles of being gay and celibate.  
@@ -85,6 +90,8 @@
 	Sam Alberry
 * **Is God Anti-Gay?**  
 	Sam Alberry
+* **Love is an Orientation**
+	Andrew Martin
 * **The same-sex controversy**  
 	James r. white & Jeffry d. Niell
 * **Homosexuality**  
@@ -94,8 +101,7 @@
 * **Boy Erased: A Memoir** 
 * **Secret Thoughts of an Unlikely Convert**  
 	Rosaria Butterfield
-* **Homosexuality and the Christian**
-  Mark A Yarhouse
+
 
 ### other scheduled resources
 * Seventh-gay Adventist
