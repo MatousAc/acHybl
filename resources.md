@@ -26,18 +26,14 @@
 	*About*: Caleb's story of being raised by two lesbian women. An unusual tale of prejudice against Christians and eventual conversion. Continues with a unique discussion on how to love, think about, and approach gay people outside the church or within it.
 	*Theological Perspective*: Though homosexuality is not God's plan for any individual, it is something affecting real people all around us. Christians have a bad reputation and could do a better job at addressing this issue. There is a balace to be found between truth and grace. Sometimes things can get messy in the process, and that's okay.  
 	*Opinion*: Pretty decent. I thought it was incredibly unique and gave even me a message of hope for the church I am a part of.
-* **Love Into Light**  
-	Peter Hubbard | ★★✭☆☆  
-	*About*: How a pastor and church respond to their queer community. Why the traditional ethic on homosexuality is correct.  
-	*Theological Perspective*: stay conservative but be filled with love for the queer community.   
-	*Opinion*: decent. It didn't really hurt to read but may be a good resource for pastors.
+
 
 ### insightful
 * **Homosexuality and the Christian**
-  	Mark A Yarhouse | ★★★☆☆  
+  	Mark A Yarhouse | ★★✭☆☆  
 	*About*: What are the different aspects and expressions of one's same-sex-attractedness? This book suggests a framework and gives advice to individuals in all types of situations surrounding the queer community. From mixed-orientation marriage, to healthy responses to young or adult children coming out, Yarhouse attempts to give solid advice based on experience and research.  
 	*Theological Perspective*: Homosexuality and gay identity are not part of God's design and should not be supported just as other sin should not be supported. Those struggling in these areas, however, need great support, and so do those around them.  
-	*Opinion*: This one surprised me by having relatively decent advice to parents and queer individuals coming from a traditional, non-affriming background. I do not really agree with Yarhouse's fundamental dichotomy of gay attraction, orientation, and identity. I feel like I fit outside of this and many others I know do too.  
+	*Opinion*: This one surprised me by having relatively decent advice to parents and queer individuals coming from a traditional, non-affriming background. I do not really agree with Yarhouse's fundamental trichotomy of gay attraction, orientation, and identity. I feel like I fit outside of this and many others I know do too. There are some passages in his book, however, that are truly troubling, such as "The same-sex attracted person cannot view another's viewpoint." Very offensive. Other wise I'd giv three full stars and possibly a little more.  
 * **Washed & Waiting**  
 	Wesley Hill | ★★★☆☆  
 	*About*: What does honoring God with my sexuality look like if I'm gay? The daily struggles of being gay and celibate.  
@@ -48,6 +44,11 @@
 	*About*: Mel's experience as a gay man in the twentieth century. Full of passion and unusual gay conversion therapy as Mel grows up, raises a family, and directs a piece of the evangelical world from behind the scenes. Eventually Mel can't resist his desires, divorces, and lives with a man.   
 	*Theological Perspective*: The church has hammered in the message that homosexuality is evil not because it really is, but because it wanted a scapegoat to raise money off of. Everyone's sexuality is a holy gift from God.  
 	*Opinion*: One of the most captivating books on this topic that I have read. Mel describes pretty much his entire life. Due to the things and attitudes he endured, it is no wonder that he had to reject what his church preached on homosexuality.
+* **Love Into Light**  
+	Peter Hubbard | ★★✭☆☆  
+	*About*: How a pastor and church respond to their queer community. Why the traditional ethic on homosexuality is correct.  
+	*Theological Perspective*: stay conservative but be filled with love for the queer community.   
+	*Opinion*: decent. It didn't really hurt to read but may be a good resource for pastors.
 * **Out of a Far Country**  
 	Christopher Yuan | ★★✭☆☆  
 	*About*: Christopher's testimony. Yuan grew up with Chinese values, but went to live on his own as a sexually active, gay man in Atlanta. He soon became a drug dealer - leading to his eventual arrest. Due to his newly Christian parents and time in prison, he accepts Jesus and leaves his previous lifestyle. Goes on to help other's with their struggle with their sexuality.  
@@ -76,6 +77,12 @@
 	*About*: theological argument favouring a Christian view affirming same-sex marriage. Goes through the six "clobber verses" that mention homosexuality and explains the misconceptions Christians have had about them over the centuries. 
 	*Theological Perspective*: Sex difference is not part of what marriage is. The prohibitive laws do not apply to modern people. Verses on homosexuality are mistranslated and originally addressed gang rape, pederasty and other forms of inflicting status sexually.  
 	*Opinion*: Makes very good points. Overall unconvincing to me personally because Vine's fails to show how gay marriage fits God's design in creation. He only unclobbers the texts.
+* **Is God Anti-Gay?**  
+	Sam Alberry | ★☆☆☆☆  
+	*About*:  
+	*Theological Perspective*:  
+	*Opinion*: He starts out with Biblical teaching. The second chapter is full of traditional arguments over the six clobber passages that are somewhat lame, and sprinkled with logical falacies. I've read plenty of rebuttals to the types of arguments Sam makes. For a relatively recent book, this instantly feels unresearched, generic, and uninformative to me personally.  
+
 
 ### books I want to read
 * **People to Be Loved**  
@@ -87,8 +94,6 @@
 * **Gay and Catholic**  
 	Eve Tushnet
 * **Why Does God Care Who I Sleep With?**  
-	Sam Alberry
-* **Is God Anti-Gay?**  
 	Sam Alberry
 * **Love is an Orientation**
 	Andrew Martin
@@ -134,7 +139,7 @@
 * My Therapy:
 * Hope Counseling Center
 
-#### worthy quotes
+#### worthwhile quotes
 * normal to have intimate and intense relationships with friends for homosexuals  
   love into light p43
 
