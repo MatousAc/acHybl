@@ -49,8 +49,13 @@
 	*About*: How a pastor and church respond to their queer community. Why the traditional ethic on homosexuality is correct.  
 	*Theological Perspective*: stay conservative but be filled with love for the queer community.   
 	*Opinion*: decent. It didn't really hurt to read but may be a good resource for pastors.
+* **Gay Girl, Good God**  
+	Jackie Hill Perry | ★★✭☆☆  
+	*About*: Jackie's testimony about her relationship with her father and a younger self engaged in lasbian relationships. She details how God drew her out and connected her with people that could help her find what her heart was looking for. Eventually she meets a guy she actually sees herself being with and marries him. She ends by trying to provide theological resources/encouragement for those who struggle as she does.  
+	*Theological Perspective*: Homosexuality is enticing but wrong. The gay identity is also a moral problem.  
+	*Opinion*: Although it was a pretty nice testimony, most of the book was written in such a poetic way it felt forced and distracting. Parts of her experience seem to be portrayed as general fact while other's experiences guide them towards different conclusions.  
 * **Out of a Far Country**  
-	Christopher Yuan | ★★✭☆☆  
+	Christopher Yuan | ★★☆☆☆  
 	*About*: Christopher's testimony. Yuan grew up with Chinese values, but went to live on his own as a sexually active, gay man in Atlanta. He soon became a drug dealer - leading to his eventual arrest. Due to his newly Christian parents and time in prison, he accepts Jesus and leaves his previous lifestyle. Goes on to help other's with their struggle with their sexuality.  
 	*Theological Perspective*: Homosexuality and the gay identity are sins. They are to be avoided. Those who are same-sex attracted are called to a possibly lifelong period of celibacy.  
 	*Opinion*: Not bad. Definitely an interesting story. However, it's thoroughly not relatable and replete with presuppositions based on his individual experience. 
@@ -79,16 +84,26 @@
 	*Opinion*: Makes very good points. Overall unconvincing to me personally because Vine's fails to show how gay marriage fits God's design in creation. He only unclobbers the texts.
 * **Is God Anti-Gay?**  
 	Sam Alberry | ★☆☆☆☆  
-	*About*:  
-	*Theological Perspective*:  
-	*Opinion*: He starts out with Biblical teaching. The second chapter is full of traditional arguments over the six clobber passages that are somewhat lame, and sprinkled with logical falacies. I've read plenty of rebuttals to the types of arguments Sam makes. For a relatively recent book, this instantly feels unresearched, generic, and uninformative to me personally.  
+	*About*: Sam tries to answer several questions about homosexuality and God/the Bible. After saying God is not anti-gay, he leads with the basic biblical case against homosexual relationships and argues that everyone is guilty of sin. God loves everyone and cannot be anti-anyone.  
+	*Theological Perspective*: Homosexuality is sin. This sin is not any less grave, but not worse either. However, it fundamentally alters the gospel and cannot be compromised. Having a gay identity is flawed because we should not identify with sin or anything other than Christ.  
+	*Opinion*: He starts out with Biblical teaching. The second chapter is full of traditional arguments over the six clobber passages that are somewhat lame, and sprinkled with logical falacies. I've read plenty of rebuttals to the types of arguments Sam makes. For a relatively recent book, this instantly feels unresearched, generic, and uninformative to me personally. The book is too short to have any sort of impact, and too shallow to be convincing in any direction.  
+* **The same-sex controversy**  
+	James r. white & Jeffry d. Niell | ☆☆☆☆☆  
+	*About*: A tradional biblical case condemning homosexuality and homosexual people. Explins why Sodom and Leviticus are clear condemnations of homosexuality.  
+	*Theological Perspective*: Gay anything sucks.  
+	*Opinion*: Kinda a trash read. Honestly the arguments made seemed biased.
 
-
-### books I want to read
+### currently reading
 * **People to Be Loved**  
 	Preston Sprinkle
 * **Bible, Gender, Sexuality**  
 	Brownson
+* **The Bible and Homosexual Practice: Text and Hermeneutics**  
+	Robert Gagnon
+* **Navigating the Storms of Contemporary Sexuality, Identity and Love**
+	Ron Woolsey
+
+### books I want to read
 * **Spiritual Friendship**  
 	Wesley Hill
 * **Gay and Catholic**  
@@ -97,12 +112,6 @@
 	Sam Alberry
 * **Love is an Orientation**
 	Andrew Martin
-* **The same-sex controversy**  
-	James r. white & Jeffry d. Niell
-* **Homosexuality**  
-	Robert Gagnon
-* **Gay Girl, Good God**  
-	Jackie Hill Perry
 * **Boy Erased: A Memoir** 
 * **Secret Thoughts of an Unlikely Convert**  
 	Rosaria Butterfield
