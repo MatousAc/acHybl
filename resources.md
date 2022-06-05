@@ -97,6 +97,11 @@
 	*About*: A tradional biblical case condemning homosexuality and homosexual people. Explins why Sodom and Leviticus are clear condemnations of homosexuality.  
 	*Theological Perspective*: Gay anything sucks.  
 	*My Opinion*: Kinda a trash read. Honestly the arguments made seemed biased.
+* **Navigating the Storms of Contemporary Sexuality, Identity and Love**  
+	Ron Woolsey | ★☆☆☆☆  
+	*About*: Uses the analogy of flying a plane and going on journeys to mode a sense direction in sexual orientation. Explains that homosexuality is another abominable sin characterized by disease, caused by child molestation, and strategically planned by 1980s gay activists. Woolsey calls people to "reorient" themselves and takes a chapter to rebut dangerous teachings such as "sharing God's love and acceptance" and "not trying to change one's LGBT orientation."  
+	*Theological Perspective*: Homosexuality is a sin. Gay identity is underlying sin. Homosexual orientation is a choice.  
+	*Opinion*: Overall, I kinda see where Ron is coming from on some of these points, but the book really is a thorough dissapointment. The title makes this sound like a resource to young queer individuals coming from a conservative background. However, the magazine does not provide encouragement, understanding, or any assurance that "it will all be okay in the end." Rather, Ron takes the time to dive into the gay agenda, vilifying the queer community. He takes time to suggest that if someone is not being actively sexually transformed, their conversion must not be genuine. He explains the Biblical case against same-sex relationships but barely mentions what life is left for a consistently queer person with these beliefs. Backed by enough research to sound plausible and packed with negative sentiment towards the authors past, I couldn't imagine a worse resource to give a young conservative Christian struggling to reconcile their sexuality and faith.  
 
 ### currently reading
 * **People to Be Loved**  
