@@ -76,39 +76,29 @@ I reflected on my therapy sessions for inspiration. One thing I remembered was m
 I simply tried to will the disgust into myself whenever I had a "gay thought." Usually these were most prevalent while walking between classes at school. *Oh, he's smiling at m-NO stop that. You can't think about that, ever.* I soon realized my will wasn't enough though.  
 I had what I thought then to be the most brilliant idea to condition my mind using paired association. If my gay thoughts were mentally linked to pain and punishment, I hoped I would naturally draw away from them. I remember ducking out of a hallway into the school restrooms to hit my head against the walls after thinking about a popular guy walking at the other end of the hall. Usually I couldn't bring myself to inflict too much pain, so my locker door would have to do.  
 This conditioning didn't really achieve what I hoped, though. Rather than feeling less gay, I felt worse about daring to have a crush. It became harder to get up, to look into a mirror. My mind started exploring other, more radical possibilities. What if I figured out how to be castrated? Would no testosterone equal no problems? I wasn't in a great position to ask an expert, so I decided not to do anything hastily before I could be sure to get the facts straight.  
-Despite already spending months trying to resolve and re-rail my sexuality, I thought I wasn't trying hard enough. I noticed that thinking about a kind or attractive guy often began with seeing a kind or attractive guy. I began to try to control every action or idea that could lead to me having "gay thoughts." 
+Despite already spending months trying to resolve and re-rail my sexuality, I thought I wasn't trying hard enough. I noticed that thinking about a kind or attractive guy often began with seeing a kind or attractive guy. I began to control every action or idea that could lead to me having "gay thoughts."  
 He was asking to borrow a pencil? Sure, but I should put it on his desk so I don't accidentally touch his hand. Was that Aaron smiling at me from across the hall? I'd better look the other way.  
-This quickly led to a rather obsessive fight to guard myself from any interactions that may be interpreted by others as "gay". I remember sitting down in a classroom after successfully avoiding eye contact with all my male classmates. I meant to ask the teacher about my grade, but 
+This quickly led to a rather obsessive fight to guard myself from any interactions that may be interpreted by others as "gay". I remember sitting down in a classroom after successfully avoiding eye contact with all my male classmates. I meant to ask the teacher about my grade, but a classmate walked in and sat in front of me. *Ahh, I probably can't get up without seeing him. Probably best to sit here intently staring at my iPad. Wait, why are you even thinking about another guy . . . wait does my finger look like it's pointed at him? He might figure out I'm gay . . .*  
+I curled up my hand. I hid my eyes behind my hair.  
+*Or what if I look unnatural around other guys, that might also give it . . . did he notice that I noticed . . .*
+I forced myself to relax. I tried not to notice, to even think. I realized I was going crazy.  
+I was failing at it all over again. The idea that liking guys wasn't a satanic ritual may have crossed my mind. But that mentality was reinforced over and over again.  
+When my friends liked someone, other's were dying to know who it was. "Believe in yourself." "You won't know until you try." But when a friend suspected that I might like someone or I dared share my darkest secret with them, I was often avoided. Slowly disassociated. A handshake was no longer seen as a friendly straight handshake, but as an opportunity for a gay to touch them. Slowly, the divide between myself and humanity grew.  
+It's not that my friends, and peers were judgemental or mean. We just came from a background that normalized this phobia. I know this because I fully emotionally understood why I was viewed and treated the way I was, and I agreed with my peers. I doubt whether I would have acted differently had I been in their position.  
+
+Having devalued my own non-straight life and losing motivation to become straight, I shuffled closer to an invisible line at the deep end of depression. Ending my life wasn't a novel idea, but it was one that grew almost impossible to refute one week. I knew I wouldn't make it if I kept thinking about my sexuality and because I lived right by the train tracks, I knew I only needed to slip up once to lose all my future fights. Instead, I focused on pushing it as far away as I could.  
+I aimed to focus so much of my energy and attention on my academics that I would have none left for thinking "gay thoughts" or even thinking about being gay. It wasn't a great solution, but I did keep going and even found goals to live for again.  
+
+I suppose my persistance bears witness to the human necessity of being known. I decided that if people would reject or fear me because of who caused the butterflies in my stomach then they ought to. Better that than they remain friendly and willing to turn their backs if the truth ever came out. Besides, I wasn't naive enough to think that I was the only one hurt when I came out. My friends must have felt it too. If things did not go well, it would be easier to face the fallout sooner in a relationship than later.  
+I shouldn't have been as surprised as I was when instead of disgust, some of my friends showed support. After all, my best friend didn't hate me after I came out to him. I recall opening up to one friend who followed up with teasing me about how much harder his looks must make my life. Soon, I even opened up to an adult whose reaction and support slowly changed my own self-perception.  
+Not all reactions were great, of course, I rarely came out to anyone. Often my friend would tell me what I'm feeling was wrong. Some would offer prayers, and I appreciated that, for I knew I ought to. Others, were no longer friends, or no longer the same friends, or the same friends as long as I continued to pretend that I was no different. 
+
+#### **Paradigm Shift**
+By the end of highschool, I'd become quite skilled about ignoring my sexuality. This allowed me to regain a sense of almost belonging and an unreliable but savored joy for life. Despite mixed messages, I noticed that many of those around me still cared about me, and many of them loved God, too. Maybe I could love God and be loved as well. I find it intriguing that it was not the church that showed me God's love, but rather those who seemed to think for themselves.  
+The new insights weren't mine alone. I saw some of my friends' prejudices fade when they internalized that someone close to them struggled  with same-sex attraction.
 
 
-Feeling Straight 101:  
-pray the gay away >> no more emotions >> didn't work  
-hate it away >> didn't work >> self-disgust  
-looking in a mirror, I wondered if castrating myself somehow would solve it  
-self-control >> don't look >> don't touch >> don't feel, anything  
-almost lyrics from Let it Go - "Conceal don't feel, don't let them know"  
-I became extremely good at hiding all of myself.  
-I tried to not think at all about guys  
-I remember sitting in class trying not to make any "gay" movements >> didn't work  
-I tried to condition myself to be afraid of anything gay by physically harming myself if I found a guy attractive. applied to being close to guys emotionally  
-I tried to ignore it away. flawed logic >> became addicted to school  
-  
-spent about 7 years trying to be straight, with sophomore and junior year most intense  
-I grew comfortable with my own death.
-Until then I was a watered-down incarnation of evil.
 
-I came out to 1 person after 1 year, which went horribly  
-at this point I felt as if I could not ever be loved   
-the lowest point was when I sat in my room after realizing that ignoring my gayness wasn't working. I thought about different ways to kill myself  
-I decided that it was worth the risk and as I confided in a few more friends, I was surprised at the first few that loved me  
-this slowly began to change my self perception  
-  
-#### Paradigm Shift
-by the end of highschool  
-I made a few friends and learned to stop caring what the world thought about me  
-I felt like I had some sort of future and a lot of joy in life as long as I ignored my sexuality and stayed away from God  
-I did my best to reject the dehumanization the church placed on me  
-I could take care of myself  
 but there were people who loved me despite my sexuality  
 some were confused that I was gay and their perception of queer people became more human  
 if they loved me, and they knew God, maybe I could give God a chance  
