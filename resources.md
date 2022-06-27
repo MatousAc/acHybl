@@ -6,12 +6,16 @@
 	*About*: Greg's testimony growing up gay and Christian. Shows the emotional and logical development of a boy in the twenty-first century church that finds himself undeniably liking other guys. Shows how he found joy in life through his unique struggle and calling.  
 	*Theological Perspective*: The Bible prohibits gay relationships, but does not condemn those who long for them. If anything, these individuals may find themselves called to a unique and worthy position in Christ's church.  
 	*My Opinion*: The most down-to-earth and relatable story I've ever read. Doesn't force any specific theology as it's main point. 
-	
 * **Still Time To Care**  
 	Greg Johnson | ★★★★★  
 	*About*: the history of how the church has handled its gay members. From caring for them back in CS Lewis's day to trying to cure them during the ex-gay movement, Johnson accounts the evangelical church's mindset and actions.  
 	*Theological Perspective*: Being same-sex attracted/gay is not a sin and neither is identifying it. Acting on those attractions is sinful, but no more than other sin. The evangelical church has as much to repent for with regards to how it has treated the queer community as the community has for its sexual immorality.  
 	*My Opinion*: I like this book because it contains a lot of historical information important to understanding the church's current mindset. It also seems to have a mostly unbiased voice when analyzing the history.
+* **People To Be Loved**
+	Preston Sprinkle | ★★★★✭  
+	*About*: The theological argument surrounding gay marriage. Preston openly explores what the Bible, its authors, and its context say about God's intent for marriage. After finding more support for a non-affirming viewpoint, he answers questions for how churches and Christians ought to treat and care for queer individuals.    
+	*Theological Perspective*: Being same-sex attracted is not a morally culpable sin in and of itself and calling one's self gay is more of a personal matter. One should explain what they mean by "I am gay." Acting on those attractions is sinful, but no more than other sin. In fact, the Bible has a lot more to say about other things that are often swept under the rug, such as greed.  
+	*My Opinion*: I expected this book to be more about how to love the queer community, and less about the theology, but it was a great discussion. I think Preston is one of few who approaches the Bible ready to follow wherever his study leads. I would definitely recommend this to all my non-affirming friends, as well as more affirming friends looking for a good argument from another perspective.  
 * **Torn**  
 	Justin Lee | ★★★★☆  
 	*About*: Justin's story of growing up gay and Christian. Being deeply spiritual, Justin suddenly finds his sexuality and faith at odds. Justin learns to be more gracious on the journey to an affirming view of gay marriage in scripture.  
