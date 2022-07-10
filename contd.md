@@ -106,7 +106,7 @@ The new insights weren't mine alone. As I opened up to more friends and acquaint
 I certainly don't mean to point fingers. While I noticed others' perception of the queer community shifting, my own self-image transformed as my own prejudices and homophobia gradually dissolved. Likely the most beneficial part of this process was leaving behind the shame I had carried since I recognized I was gay. When I came out to my closest few friends in elementary and highschool, I would often feel the need to apologize for being their friend. In my mind it was a potentially devastating misfortune to be close to someone like me. Challenging the homophobia I was accustomed to and disentangling myself from shame over who caused the butterfly effect in my stomach went hand-in-hand.
 
 Gradually distancing myself from cycles of depression and self-degradation was phenomenal in college, but I still couldn't comprehend how my sexuality would affect my life as a Christian. I couldn't go on ignoring it like I had in high school. When looking for answers, I received a wide array of suggestions and solutions from the peers and adults I had confided in.  
-"You need to go back to this ministry I heard about in Texas."  
+"You need to go to this one ministry I heard about in Texas."  
 "If you're truly seeking God, he will work miracles in your life."  
 "I'm sure if you just meet the right girl . . ."  
 "We need to find you a boyfriend!"
@@ -116,15 +116,20 @@ After a few months I felt like I was getting some sort of answer back through mo
 If my focus was on being straight, my focus was entirely in the wrong place. Apparently, I was asking a largely irrelevant question. I didn't need to be straight. As if that would more holy before God than where I was now. Instead, God seemed to be asking whether I was willing to follow Him where he lead and accept that to be enough.  
 Unexpectedly, I felt as if a huge burden had been lifted. Of course, following Him isn't simple either. If fact, soon I felt pushed in a direction that I never expected God to lead.  
 
-If I opened up to a friend, it was no longer out of fear that they would figure it out on their own. Besides desiring transparency, I also wanted to begin to confront the misconceptions some of my peers and superiors had about queer individuals. Most were assumptions that I had to break down myself. 
-Gay people were pedophiles? I'd never felt anything that supported that. Was describing myself as gay "one step closer to the gay lifestyle?" What even was that? I was gay but I had no lifestyle other than that of an overstudious academic. The Bible is clear that same-sex romantic relationships are sinful? If so, why is there such a large debate about it?  
-My point is not that I was suddenly enlightened and found the *true answers* to these questions. Far from it. Once I recognized how little I knew, I was finally prepared to start digging into the stories, theology, and research to gain a better understanding. If you scroll away from my story and 
+If I opened up to a friend or mentor, it was no longer out of fear that they would figure me out on their own. Besides desiring transparency, I also wanted to begin to confront the misconceptions some of my peers and superiors had about queer individuals. Most were assumptions that I had to break down myself.  
+* Were gay people were pedophiles? Neither I nor any queer individuals I knew had felt anything that supported that.  
+* Was describing myself as gay "one step closer to the gay lifestyle?" What even was that? I was gay but I had no lifestyle other than that of an intensely studious academic.  
+* Was the Bible "super clear" that same-sex romantic relationships are sinful? If so, why is there such a large debate about it?  
+My point is not that I was suddenly enlightened and found the *true answers* to these questions. Far from it. Once I recognized how little I knew, I was finally prepared to start digging into the stories, theology, and research to gain a better understanding. I can't speak for the queer community in general, but I personally don't care much for my friends and fellow church members to change their non-affirming theology to an affirming one or vice-versa.  
+To me, it makes a difference when someone chooses to recognize they are uninformed rather than pretending to know everything. So does taking a moment to consider that when we speak in public there are closeted individuals listening. Often young impressionable ones.  
+I've heard many individuals argue that because children are impressionable, they need to be told the full truths to combat our world's destructive messages. The challenge with this approach is that it becomes too easy to feel like our behavior is excused by our raw truth. Conservative theology doesn't need to include asking a fifteen-year-old me "don't you agree that those homosexual folks are disgusting?" Although, only a minority of people I knew in my community said things like that, there were even fewer willing to challenge those remarks.  
 
+Though I naturally avoid confrontation, I believed that if I was to see a change I needed to be part of it. My expectations of God once focused on becoming heterosexual, but instead I found God pushing me to leave behind the shame that had ruled my life for a decade. As I dug deeper into theology and stories of Christians such as Justin Lee, Greg Coles, and Mel White, who had publicly come out as gay, I became increasingly convicted to stop hiding my sexuality.  
+While I hoped my story could encourage individuals with a similar journey, coming out was necessary to improve my own mental health. By 2021, I had decided to come out and soon picked a random date, February 4th, to do so. I was definitely afraid of receiving hate from my community, but when the time came I didn't really receive any directly. Being an introvert, it was likely that not many people noticed, which was fine with me.  
+Coming out did, in fact, improve my mental health. The cycles of depression I had grown accustomed to further dissipated and I no longer bore the weight of keeping physical lists of who I'd come out to.  
 
+I've come a long way from the thirteen-year-old that prayed God would use him before leaving him to burn in hell. Still, my journey is far from over. I'm merely a college student with his own experiences, personal research, and developing relationship with God.  
 
-I began to find more relatable stories and resources that supported the conclusions I had come to in college.  
-I gained much more confidence and eventually felt God pushing me to come out to fight back against the shame and misinformation that had ruled my life for so long  
-What I feel like I've learned.
 
 
 
@@ -135,7 +140,7 @@ What I feel like I've learned.
 |7|1|saw Isaac naked and ++|
 |8|2||
 |9|3||
-|10|4|first crush on Jaden/Elyas|
+|10|4|first crush on EL|
 |11|5|confused|
 |12|6|Brandon, gay porn, I'm gay|
 |13|7|parents find out|
@@ -146,5 +151,5 @@ What I feel like I've learned.
 |18|12|Nik hates me|
 |19|Freshman|God?|
 |20|Sophomore||
-|21|Junior|Johan - fuller self acceptance - coming out|
+|21|Junior|JJ - fuller self acceptance - coming out|
 |22|Senior||
