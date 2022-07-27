@@ -48,6 +48,12 @@
 	*About*: Mel's experience as a gay man in the twentieth century. Full of passion and unusual gay conversion therapy as Mel grows up, raises a family, and directs a piece of the evangelical world from behind the scenes. Eventually Mel can't resist his desires, divorces, and lives with a man.   
 	*Theological Perspective*: The church has hammered in the message that homosexuality is evil not because it really is, but because it wanted a scapegoat to raise money off of. Everyone's sexuality is a holy gift from God.  
 	*My Opinion*: One of the most captivating books on this topic that I have read. Mel describes pretty much his entire life. Due to the ideologies and treatment he endured, it is no wonder that he had to reject what his church preached on homosexuality.
+* **Welcoming but not affirming**  
+	Stanley J. Grenz | ★★★☆☆  
+	*About*: A serious discussion about the meaning of the Bible, the morality of homosexuality, and it's relationship to the historic and current church. Grenz explores how our conclusions about this debate influence other parts of Christianity and the church and how to treat the issue and those caught in the midst of it.  
+	*Theological Perspective*: The Bible provides conclusive evidence that defines marriage as requiring sexual "otherness." Gay unions fail to fulfill this and are not marriage. However, there are many things the church has irrationally gotten wrong especially concerning it's treatment of those people in the midst of the struggle.  
+	*My Opinion*: I felt like this should have been titled "The Bible, the Church, and the Gay Christian" or something like that, because much more time is spent on the theological, moral, and historical argument than I expected. Despite some ideas about marriage and homosexuality that I don't see the logic for, the reason I gave this book three stars is that, for an old book, the author presents his argument in remarkable detail. There seems to be logic behind every important idea that at least proves the author has good reasons for believing what he believes, even if some of those logical threads are not agreeable to the reader. 
+	
 * **Love Into Light**  
 	Peter Hubbard | ★★✭☆☆  
 	*About*: How a pastor and church respond to their queer community. Why the traditional ethic on homosexuality is correct.  
@@ -108,8 +114,6 @@
 	*Opinion*: Overall, I kinda see where Ron is coming from on some of these points, but the book really is a thorough disappointment. The title makes this sound like a resource to young queer individuals coming from a conservative background. However, the magazine does not provide encouragement, understanding, or any assurance that "it will all be okay in the end." Rather, Ron takes the time to dive into the gay agenda, vilifying the queer community. He takes time to suggest that if someone is not being actively sexually transformed, their conversion must not be genuine. He explains the Biblical case against same-sex relationships but barely mentions what life is left for a consistently queer person with these beliefs. Backed by enough research to sound plausible and packed with negative sentiment towards the authors past, I couldn't imagine a worse resource to give a young conservative Christian struggling to reconcile their sexuality and faith.  
 
 ### currently reading
-* **People to Be Loved**  
-	Preston Sprinkle
 * **Bible, Gender, Sexuality**  
 	Brownson
 * **The Bible and Homosexual Practice: Text and Hermeneutics**  
