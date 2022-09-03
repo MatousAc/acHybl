@@ -21,10 +21,6 @@
 	*About*: Justin's story of growing up gay and Christian. Being deeply spiritual, Justin suddenly finds his sexuality and faith at odds. Justin learns to be more gracious on the journey to an affirming view of gay marriage in scripture.  
 	*Theological Perspective*: Gay marriage fulfills the primary purpose of marriage equally well. The church needs to work on its homophobia and learn to treat the queer community with the dignity it deserves.    
 	*My Opinion*: Very relatable and not written to convince anyone of any particular theology. I like how it encourages discussion and brings up some points that evangelical Christians tend to avoid talking about.
-* **No Longer Strangers**  
-	Gregory Coles | ★★★✭☆  
-	*About*: Belonging. Coles explains that similarity does not produce the best type of belonging and marriage is not the solution to loneliness. He tells of his journey to find belonging as a celibate gay man in a marriage-obsessed church culture.  
-	*Theological Perspective*: Being gay is not sinful withing itself. As a gay person I feel called to lifelong celibacy which entails being joined to Jesus in the present.
 * **Messy Grace**  
 	Caleb Kaltenbach | ★★★☆☆  
 	*About*: Caleb's story of being raised by two lesbian women. An unusual tale of prejudice against Christians and eventual conversion. Continues with a unique discussion on how to love, think about, and approach gay people outside the church or within it.
@@ -33,6 +29,11 @@
 
 
 ### insightful
+* **No Longer Strangers**  
+	Gregory Coles | ★★★✭☆  
+	*About*: Belonging. Coles explains that similarity does not produce the best type of belonging and marriage is not the solution to loneliness. He tells of his journey to find belonging as a celibate gay man in a marriage-obsessed church culture.  
+	*Theological Perspective*: Being gay is not sinful within itself. As a gay person I feel called to lifelong celibacy which entails being joined to Jesus in the present.  
+	*My Opinion*: Overall, I thought this was a pretty nice book. It focused a on Greg's personal life and feelings, so it's a little off-topic compared to most of the other books in this list.
 * **Homosexuality and the Christian**
   	Mark A Yarhouse | ★★✭☆☆  
 	*About*: What are the different aspects and expressions of one's same-sex-attractedness? This book suggests a framework and gives advice to individuals in all types of situations surrounding the queer community. From mixed-orientation marriage, to healthy responses to young or adult children coming out, Yarhouse attempts to give solid advice based on experience and research.  
@@ -115,9 +116,12 @@
 
 ### currently reading
 * **Bible, Gender, Sexuality**  
-	Brownson
+	James Brownson | ★★★☆☆  
 * **The Bible and Homosexual Practice: Text and Hermeneutics**  
-	Robert Gagnon
+	Robert Gagnon | ★★★☆☆  
+	*About*: The authoritative case for non-affirming views. Gagnon goes through the story of creation and marriage, and just about every verse in the Bible that alludes to same-sex romanticism or sexual intent and explains the traditional/non-affirming position.  
+	*Theological Perspective*: Obviously very non-affirming.  
+	*My Opinion*: This book was extremely informative. I understand the non-affirming argument's strong and weak points very well now. I thoroughly appreciate the detail given to many different views and theological propositions. I agree with Gagnon in several cases, but there are many arguments he makes that aren't fully convincing, and others that are fundamentally problematic to Christianity (such as the discussion of androgynous humans). I would recommend this to someone who wants to dig deeper and hear both sides of the argument.   
 
 ### books I want to read
 * **Spiritual Friendship**  
