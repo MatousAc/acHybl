@@ -1,8 +1,9 @@
-import './app.css'
-import App from './App.svelte'
+import './main.css'
+import './css/theme.css'
+import Skeleton from './Skeleton.svelte'
 
-const app = new App({
-  target: document.getElementById('app')
+const app = new Skeleton({
+  target: document.getElementById('content')
 })
 
 export default app
