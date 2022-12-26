@@ -23,9 +23,10 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4",
-    "vite": "^3.2.3"
+    "vite": "^4.0.0"
   },
   "dependencies": {
+    "@sveltejs/kit": "^1.0.1",
     "github-calendar": "^2.3.1"
   }
 }

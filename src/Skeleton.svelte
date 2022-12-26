@@ -1,6 +1,7 @@
 <script lang="ts">
   import './css/theme.css'
   import DarkMode from "svelte-dark-mode";
+  import ThemeToggle from './components/ThemeToggle.svelte'
 
   let theme;
 
@@ -8,9 +9,10 @@
   $: document.body.className = theme;
 </script>
 
-<main class="skeleton {theme}">
-Some basic text.
 <DarkMode bind:theme />
+
+<main class="skeleton {theme}">
+So here is the skeleton. Let's pretend we have a Nav here.
 
 <h1>This is {theme} mode.</h1>
 <p>Change the theme and reload the page.</p>
@@ -18,6 +20,7 @@ Some basic text.
 <button on:click={() => (theme = switchTheme)}>
   Switch to {switchTheme} mode
 </button>
+<ThemeToggle/>
 </main>
 
 <style>
