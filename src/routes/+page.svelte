@@ -1,27 +1,10 @@
 <script lang="ts">
-  import '../css/theme.css'
-  import DarkMode from "svelte-dark-mode";
-  import ThemeToggle from '../components/ThemeToggle.svelte'
+  // import ThemeToggle from '../components/ThemeToggle.svelte'
+  // import { theme, type Theme } from '../ts/theme'
 
-  let theme: string;
+  // let currentTheme: Theme;
+  // theme.subscribe(val => currentTheme = val)
 
 </script>
 
-<!-- <DarkMode bind:theme /> -->
-
-<main class="skeleton {theme}">
-So here is the skeleton. Let's pretend we have a Nav here.
-
-<h1>This is {theme} mode.</h1>
-<p>Change the theme and reload the page.</p>
-
-<ThemeToggle/>
-</main>
-
-<style>
-.skeleton {
-  color-scheme: light dark;
-  background-color: var(--background);
-  color: var(--foreground)
-}
-</style>
+<h1>home</h1>

@@ -32,6 +32,6 @@
 	"type": "module",
 	"dependencies": {
 		"github-calendar": "^2.3.1",
-		"svelte-dark-mode": "^2.1.0"
+		"svelte-theme-switcher": "^0.0.11"
 	}
 }
