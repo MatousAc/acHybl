@@ -1,5 +1,5 @@
-<script>
-
+<script lang="ts">
+  import ThemeSwitcher from '../components/ThemeSwitcher.svelte';
   let menuShow = false;
   
   function toggleNavbar() {
@@ -37,6 +37,7 @@
                 </a>
               </li>
             </ul>
+          <ThemeSwitcher/>
           </div>
         </div>
       </nav>

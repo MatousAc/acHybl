@@ -1,5 +1,12 @@
 <script lang="ts">
-	import { theme } from '../ts/theme';
+  import { onMount } from 'svelte';
+  import type { Theme } from '../ts/types';
+  import type { Writable } from 'svelte/store';
+  
+  // let theme: Writable<Theme>
+  onMount(async () => {
+    const theme = await import("../ts/theme")
+  })
   
 	let toggleTheme = () => {
 		theme.update((val) => (val === 'dark' ? 'light' : 'dark'));
