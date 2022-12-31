@@ -21,8 +21,8 @@
   class="do-transition py-1 px-4 rounded-2xl flex justify-center items-center"
   on:click={changeTheme}
 >
-  <Icon name={selectedTheme} class=mr-1/>
-  <span>{selectedTheme} theme</span>
+  <Icon name={selectedTheme}/>
+  <span class=ml-1>{selectedTheme} theme</span>
 </button>
 
 <style lang="scss">

@@ -1,44 +1,189 @@
-<script lang="ts">
-  import ThemeSwitcher from '../components/ThemeSwitcher.svelte';
-  let menuShow = false;
-  
-  function toggleNavbar() {
-    menuShow = !menuShow;
+<script>
+  import { onMount } from "svelte";
+	import Logo from "./Logo.svelte";
+	import ThemeSwitcher from "./ThemeSwitcher.svelte";
+
+  let logoWidth = 90
+  // Show mobile icon and display menu
+  let showMobileMenu = false;
+
+  // List of navigation items
+  const pages = [
+    { title: "Home", href: "/" },
+    { title: "Resume", href: "/resume" },
+    { title: "Testimony", href: "/testimony" }
+  ]
+
+  // Media match query handler
+  const mediaQueryHandler = (/** @type {{ matches: any; }} */ e) => {
+    // Reset mobile state
+    if (!e.matches) {
+      showMobileMenu = false;
+    }
   }
-  
+
+  // Attach media query listener on mount hook
+  onMount(() => {
+    const mediaListener = window.matchMedia("(max-width: 599px)");
+    mediaListener.addListener(mediaQueryHandler);
+  })
 </script>
 
-<div class="w-full px-4 py-2">
-  <nav class="relative flex flex-wrap items-center justify-between px-2 py-3 navbar-expand-lg bg-blueGray-500 rounded">
-    <div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
-      <div class="w-full relative flex justify-between lg:w-auto px-4 lg:static lg:block lg:justify-start">
-        <a class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white" href="#pablo">
-          blueGray Starter Menu
-        </a>
-        <button class="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none" type="button" on:click={toggleNavbar}>
-          <i class="fas fa-bars"></i>
-        </button>
-      </div>
-      <div class="lg:flex lg:flex-grow items-center {menuShow ? 'flex':'hidden'}">
-        <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
-          <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" href="#pablo">
-              <i class="fas fa-globe text-lg leading-lg text-white opacity-75"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" href="#pablo">
-              <i class="fas fa-user text-lg leading-lg text-white opacity-75"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75" href="#pablo">
-              <i class="fas fa-cog text-lg leading-lg text-white opacity-75"></i>
-            </a>
-          </li>
-        </ul>
-      <ThemeSwitcher/>
-      </div>
-    </div>
-  </nav>
-</div>
+<nav class="w-full flex items-center justify-between px-8">
+  <!-- Logo -->
+  <a href="/"><Logo width={logoWidth}/></a>
+
+  <!-- Reactivity -->
+  <!-- svelte-ignore a11y-click-events-have-key-events -->
+  <div on:click={() => showMobileMenu = !showMobileMenu}
+  class={`mobile-icon${showMobileMenu ? ' active' : ''}`}>
+    <div class="middle-line"></div>
+  </div>
+
+  <!-- Links -->
+  <div class="links">
+    <ul class={`navbar-list${showMobileMenu ? ' mobile' : ''}`}>
+      {#each pages as page}
+        <li class="py-2 px-4">
+          <a href={page.href}>{page.title}</a>
+        </li>
+      {/each}
+    </ul>
+  </div>
+
+  <!-- Theme -->
+  <ThemeSwitcher/>
+</nav>
+
+<style lang="scss">
+nav {
+  background-color: rgba(0, 0, 0, 0.8);
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 1rem;
+}
+.navbar-list li {
+  list-style-type: none;
+  position: relative;
+}
+
+.navbar-list li:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #424245;
+}
+
+.navbar-list a {
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  height: 45px;
+  align-items: center;
+  padding: 0 10px;
+  /* font-size: 13px; */
+  position: absolute ;
+  content: "" ;
+  top: calc( 100% - 3px ) ;
+  left: 0 ;
+  width: 100.5% ; /* To Stop Any Breaks There Might Be Between Link Items */
+  background: white ;
+  transform: scaleX(0) ;
+  transition: transform 0.5s ;
+}
+.mobile-icon {
+  width: 25px;
+  height: 14px;
+  position: relative;
+  cursor: pointer;
+}
+
+.mobile-icon:after,
+.mobile-icon:before,
+.middle-line {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: #fff;
+  transition: all 0.4s;
+  transform-origin: center;
+}
+
+.mobile-icon:before,
+.middle-line {
+  top: 0;
+}
+
+.mobile-icon:after,
+.middle-line {
+  bottom: 0;
+}
+
+.mobile-icon:before {
+  width: 66%;
+}
+
+.mobile-icon:after {
+  width: 33%;
+}
+
+.middle-line {
+  margin: auto;
+}
+
+.mobile-icon:hover:before,
+.mobile-icon:hover:after,
+.mobile-icon.active:before,
+.mobile-icon.active:after,
+.mobile-icon.active .middle-line {
+  width: 100%;
+}
+
+.mobile-icon.active:before,
+.mobile-icon.active:after {
+  top: 50%;
+  transform: rotate(-45deg);
+}
+
+.mobile-icon.active .middle-line {
+  transform: rotate(45deg);
+}
+
+.navbar-list {
+  display: none;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0 40px;
+}
+
+.navbar-list.mobile {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  display: block;
+  height: calc(100% - 45px);
+  bottom: 0;
+  left: 0;
+}
+
+@media only screen and (min-width: 767px) {
+  .mobile-icon {
+    display: none;
+  }
+
+  .navbar-list {
+    display: flex;
+    padding: 0;
+  }
+
+  .navbar-list a {
+    display: inline-flex;
+  }
+}
+
+
+
+</style>
