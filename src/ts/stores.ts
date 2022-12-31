@@ -1,3 +1,4 @@
+// cookieStore and SiteTheme code taken from https://rosshill.ca/
 import Cookies from 'universal-cookie';
 import { writable } from 'svelte/store';
 import type { Writable } from 'svelte/store';
