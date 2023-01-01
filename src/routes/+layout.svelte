@@ -4,10 +4,13 @@
 	import Bar from '../components/Bar.svelte';
   import type { SiteTheme } from "../ts/types";
   import { theme } from "../ts/stores";
+	import Analytics from '../components/Analytics.svelte';
   
   let selectedTheme: SiteTheme;
   theme.subscribe(val => selectedTheme = val)
 </script>
+
+<Analytics />
 
 <main class="skeleton {selectedTheme}">
 <Bar/>
