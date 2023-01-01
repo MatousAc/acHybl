@@ -4,13 +4,13 @@
 	import Bar from '../components/Bar.svelte';
   import type { SiteTheme } from "../ts/types";
   import { theme } from "../ts/stores";
-	import Analytics from '../components/Analytics.svelte';
+	import GoogleAnalytics from '../components/GoogleAnalytics.svelte';
   
   let selectedTheme: SiteTheme;
   theme.subscribe(val => selectedTheme = val)
 </script>
 
-<Analytics />
+<GoogleAnalytics />
 
 <main class="skeleton {selectedTheme}">
 <Bar/>
