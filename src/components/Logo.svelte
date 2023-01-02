@@ -1,6 +1,6 @@
 <script lang="ts">
-  export let centralColor = "#A3BEF9"
-  export let accentColor = "#A292E7"
+  export let centralColor = "white"
+  export let accentColor = "white"
   export let width = "100";
 </script>
 

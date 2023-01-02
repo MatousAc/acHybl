@@ -63,8 +63,8 @@
 
 <style lang="scss">
 nav {
-  background-color: var(--main-primary);
-  color: var(--inverse-secondary);
+  background-color: var(--primary-shade);
+  color: var(--secondary-shade);
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 1.2rem;
    ul.links {
@@ -82,11 +82,10 @@ li:after {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%;
+  width: 100.5%;
 
-  text-decoration: none;
   height: 0.1em;
-  background: white;
+  background: var(--accent);
   transition: transform 0.2s;
   transform: scaleX(0);
 }

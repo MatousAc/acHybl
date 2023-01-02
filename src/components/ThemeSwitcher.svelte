@@ -27,13 +27,14 @@
 
 <style lang="scss">
 button {
-  background-color: var(--inverse-primary);
+  background-color: var(--primary-hue);
   border: 2px solid var(--accent);
   color: var(--foreground);
   font-size: 0.9em;
 
   span {
     text-transform: capitalize;
+    min-width: 12ch;
   }
 }
 </style>
