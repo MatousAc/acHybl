@@ -30,7 +30,7 @@ button {
   background-color: var(--panel-background);
   border: 1px solid var(--border);
   color: var(--foreground);
-  font-size: 0.9rem;
+  font-size: 0.9em;
 
   span {
     text-transform: capitalize;

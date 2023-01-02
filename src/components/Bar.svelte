@@ -1,98 +1,103 @@
-<script>
-  import { onMount } from "svelte";
-	import Logo from "./Logo.svelte";
-	import ThemeSwitcher from "./ThemeSwitcher.svelte";
+<script lang="ts">
+  import { onMount } from "svelte"
+	import Logo from "./Logo.svelte"
+	import ThemeSwitcher from "./ThemeSwitcher.svelte"
 
-  let logoWidth = 90
-  // Show mobile icon and display menu
+  // component vars
   let showMobileMenu = false;
+  let ulMouseDirection: string;
+  let oldUlXCord: number;
+  let ul: HTMLUListElement;
 
-  // List of navigation items
+  // links
   const pages = [
     { title: "Home", href: "/" },
     { title: "Resume", href: "/resume" },
     { title: "Testimony", href: "/testimony" }
   ]
 
-  // Media match query handler
-  const mediaQueryHandler = (/** @type {{ matches: any; }} */ e) => {
-    // Reset mobile state
+  // media match query handler
+  const mediaQueryHandler = (e: { matches: any; }) => {
+    // reset mobile state
     if (!e.matches) {
       showMobileMenu = false;
     }
   }
 
-  // Attach media query listener on mount hook
   onMount(() => {
+    // attach media query listener on mount hook
     const mediaListener = window.matchMedia("(max-width: 599px)");
     mediaListener.addListener(mediaQueryHandler);
+    // add event listener for mouse movement on links
+    ul.addEventListener("mousemove", e => {
+      ulMouseDirection = (e.pageX < oldUlXCord) ? "left" : "right"
+      oldUlXCord = e.pageX
+    })
   })
 </script>
 
 <nav class="w-full flex items-center justify-between px-8">
-  <!-- Logo -->
-  <a href="/"><Logo width={logoWidth}/></a>
+  <!-- logo -->
+  <a href="/"><Logo width=90/></a>
 
-  <!-- Reactivity -->
+  <!-- reactivity -->
   <!-- svelte-ignore a11y-click-events-have-key-events -->
   <div on:click={() => showMobileMenu = !showMobileMenu}
   class={`mobile-icon${showMobileMenu ? ' active' : ''}`}>
     <div class="middle-line"></div>
   </div>
 
-  <!-- Links -->
-  <div class="links">
-    <ul class={`navbar-list${showMobileMenu ? ' mobile' : ''}`}>
-      {#each pages as page}
-        <li class="py-2 px-4">
-          <a href={page.href}>{page.title}</a>
-        </li>
-      {/each}
-    </ul>
-  </div>
+  <!-- links -->
+  <ul bind:this={ul}
+    class="links {ulMouseDirection} navbar-list{showMobileMenu ? ' mobile' : ''}">
+    {#each pages as page}
+      <li>
+        <a class="py-4 px-6" href={page.href}>{page.title}</a>
+      </li>
+    {/each}
+  </ul>
 
-  <!-- Theme -->
+  <!-- theme -->
   <ThemeSwitcher/>
 </nav>
 
 <style lang="scss">
 nav {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.3);
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
+   ul.links {
+     width: fit-content;
+     
+     li {
+       list-style-type: none;
+       position: relative;
+    }
+  }
 }
-.navbar-list li {
-  list-style-type: none;
-  position: relative;
-}
-
-.navbar-list li:before {
+// link underline animation
+li:after {
   content: "";
   position: absolute;
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 1px;
-  background-color: #424245;
-}
 
-.navbar-list a {
-  color: #fff;
   text-decoration: none;
-  display: flex;
-  height: 45px;
-  align-items: center;
-  padding: 0 10px;
-  /* font-size: 13px; */
-  position: absolute ;
-  content: "" ;
-  top: calc( 100% - 3px ) ;
-  left: 0 ;
-  width: 100.5% ; /* To Stop Any Breaks There Might Be Between Link Items */
-  background: white ;
-  transform: scaleX(0) ;
-  transition: transform 0.5s ;
+  height: 0.1em;
+  background: white;
+  transition: transform 0.5s;
+  transform: scaleX(0);
 }
+li:hover:after {
+  transform: scaleX(1);
+}
+ul.right li:after       {transform-origin: right;}
+ul.right li:hover:after {transform-origin: left;}
+ul.left  li:after       {transform-origin: left;}
+ul.left  li:hover:after {transform-origin: right;}
+
+// mobile navbar styling
 .mobile-icon {
   width: 25px;
   height: 14px;
