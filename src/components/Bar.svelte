@@ -63,7 +63,8 @@
 
 <style lang="scss">
 nav {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: var(--main-primary);
+  color: var(--inverse-secondary);
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 1.2rem;
    ul.links {
@@ -86,7 +87,7 @@ li:after {
   text-decoration: none;
   height: 0.1em;
   background: white;
-  transition: transform 0.5s;
+  transition: transform 0.2s;
   transform: scaleX(0);
 }
 li:hover:after {

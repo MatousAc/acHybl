@@ -22,7 +22,7 @@
 .skeleton {
   color-scheme: light dark;
   background-color: var(--background);
-  color: var(--foreground);
+  color: var(--text);
   
   min-height: 100vh;
 }

@@ -27,8 +27,8 @@
 
 <style lang="scss">
 button {
-  background-color: var(--panel-background);
-  border: 1px solid var(--border);
+  background-color: var(--inverse-primary);
+  border: 2px solid var(--accent);
   color: var(--foreground);
   font-size: 0.9em;
 
