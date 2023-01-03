@@ -13,11 +13,12 @@
 <GoogleAnalytics />
 
 <main class="skeleton {selectedTheme}">
-<Bar/>
-<slot/>
-
+  <Bar/>
+  <div class="content width-full mx-auto p-8">
+    <slot/>
+  </div>
 </main>
-  
+
 <style>
 .skeleton {
   color-scheme: light dark;
@@ -25,5 +26,9 @@
   color: var(--text);
   
   min-height: 100vh;
+}
+
+.content {
+  max-width: 1000px;
 }
 </style>
