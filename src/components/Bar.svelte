@@ -11,9 +11,10 @@
 
   // links
   const pages = [
-    { title: "Home", href: "/" },
-    { title: "Resume", href: "./resources/resume.pdf" },
-    { title: "Testimony", href: "/testimony" }
+    { title: "home", href: "/" },
+    { title: "resume", href: "./resources/resume.pdf" },
+    { title: "testimony", href: "/testimony" },
+    { title: "info", href: "/info" }
   ]
 
   // media match query handler
@@ -65,7 +66,6 @@
 nav {
   background-color: var(--primary-shade);
   color: var(--secondary-shade);
-  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   font-size: 1.2rem;
    ul.links {
      width: fit-content;
@@ -73,6 +73,9 @@ nav {
      li {
        list-style-type: none;
        position: relative;
+       a {
+        text-transform: capitalize;
+       }
     }
   }
 }
@@ -174,7 +177,8 @@ ul.left  li:hover:after {transform-origin: right;}
   left: 0;
 }
 
-@media only screen and (min-width: 767px) {
+// @media screen(sm) {
+@media only screen and (min-width: 768px) {
   .mobile-icon {
     display: none;
   }
@@ -188,7 +192,5 @@ ul.left  li:hover:after {transform-origin: right;}
     display: inline-flex;
   }
 }
-
-
 
 </style>
