@@ -38,7 +38,7 @@
 
 <nav class="w-full flex items-center justify-between px-8">
   <!-- logo -->
-  <a href="/"><Logo width=90/></a>
+  <a href="/"><Logo width=90 primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/></a>
 
   <!-- reactivity -->
   <!-- svelte-ignore a11y-click-events-have-key-events -->
