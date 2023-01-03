@@ -24,3 +24,21 @@ In backwards chronological order by age:
   * 
 * 
 
+|Age|Grade|Event|
+|-|-|-|
+|7|1|saw Isaac naked and ++|
+|8|2||
+|9|3||
+|10|4|first crush on EL|
+|11|5|confused|
+|12|6|Brandon, gay porn, I'm gay|
+|13|7|parents find out|
+|14|8|I hate me|
+|15|9||
+|16|10|move|
+|17|11|tell Nik|
+|18|12|Nik hates me|
+|19|Freshman|God?|
+|20|Sophomore||
+|21|Junior|JJ - fuller self acceptance - coming out|
+|22|Senior||

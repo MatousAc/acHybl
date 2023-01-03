@@ -1,6 +1,6 @@
 <script>
-  import Title from "../../components/Title.svelte"
+  import H1 from "../../components/H1.svelte"
 </script>
 
-<Title title="testimony" icon="light"/>
+<H1 title="testimony"/>
 <slot/>

@@ -10,11 +10,11 @@
   theme.subscribe(val => selectedTheme = val)
 </script>
 
-<GoogleAnalytics />
+<GoogleAnalytics/>
 
 <main class="skeleton {selectedTheme}">
   <Bar/>
-  <div class="content width-full mx-auto p-8">
+  <div class="content width-full mx-auto py-8 px-20">
     <slot/>
   </div>
 </main>
