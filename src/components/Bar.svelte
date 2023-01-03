@@ -12,7 +12,7 @@
   // links
   const pages = [
     { title: "Home", href: "/" },
-    { title: "Resume", href: "/resume" },
+    { title: "Resume", href: "./resources/resume.pdf" },
     { title: "Testimony", href: "/testimony" }
   ]
 
