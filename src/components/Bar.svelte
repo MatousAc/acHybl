@@ -53,7 +53,7 @@
     class="links {ulMouseDirection} navbar-list{showMobileMenu ? ' mobile' : ''}">
     {#each pages as page}
       <li>
-        <a class="py-4 px-6" href={page.href}>{page.title}</a>
+        <a class="p-6" href={page.href}>{page.title}</a>
       </li>
     {/each}
   </ul>
