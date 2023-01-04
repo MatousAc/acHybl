@@ -4,7 +4,10 @@
   import P from "../../components/P.svelte";
 </script>
 
-<H2 subtitle="foreword"/>
+<H2 
+subtitle="foreword"
+next="/testimony/background"
+/>
 <P>
 In my third year of college, my mission trip supervisor asked me to tell her what my experience growing up in the church with an attraction to the same gender was like. After five seconds of mental gymnastics, I realized that a satisfactory answer comprised a four hour conversation that neither of us could have at a Friday night vespers.
 </P>

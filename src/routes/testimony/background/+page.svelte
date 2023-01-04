@@ -4,7 +4,11 @@
   import P from "../../../components/P.svelte";
 </script>
 
-<H2 subtitle="background" icon="back"/>
+<H2 
+previous="/testimony"
+subtitle="background"
+next="mentalFoundation"
+/>
 <P>
 My parents' journey with God, the church, and with each other began soon after the fall of communism in Czechoslovakia in 1989. Despite their newfound faith, much of their community continued embracing atheism. Thus, to spread God's message, my father decided to pursue an associate degree in literature evangelism at a small, conservative school in Wichita Arkansas. After completing the program, our family moved back to Europe to help spread God's word.
 </P>
@@ -43,4 +47,4 @@ When my parents came to pick me up the next day, my mom confronted me about what
 I don't recount that experience because I was suddenly interested in other boys from that day forward. Neither molestation nor early same-sex sexual activity is a certain forecast for an individual's sexuality. However, even though I didn't think about that day for the next two years, it very well could have affected me.
 </P>
 
-<NextPage href="/testimony/mentalFoundation">Mental Foundation</NextPage>
+<NextPage href="mentalFoundation">Mental Foundation</NextPage>

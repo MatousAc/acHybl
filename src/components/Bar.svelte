@@ -39,7 +39,9 @@
 
 <nav class="w-full flex items-center justify-between px-8">
   <!-- logo -->
-  <a href="/"><Logo width=90 primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/></a>
+  <a class="p-2 md:p-0" href="/">
+    <Logo class="w-16 md:w-20" primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/>
+  </a>
 
   <!-- reactivity -->
   <!-- svelte-ignore a11y-click-events-have-key-events -->
@@ -50,10 +52,11 @@
 
   <!-- links -->
   <ul bind:this={ul}
-    class="links {ulMouseDirection} navbar-list{showMobileMenu ? ' mobile' : ''}">
+    class="links md:flex md:px-8 {
+    ulMouseDirection}{showMobileMenu ? ' mobile' : ''}">
     {#each pages as page}
       <li>
-        <a class="p-6" href={page.href}>{page.title}</a>
+        <a class="py-2 md:p-6" href={page.href}>{page.title}</a>
       </li>
     {/each}
   </ul>
@@ -64,6 +67,8 @@
 
 <style lang="scss">
 nav {
+  position: sticky;
+  top: 0;
   background-color: var(--primary-shade);
   color: var(--secondary-shade);
   font-size: 1.2rem;
@@ -101,6 +106,42 @@ ul.left  li:after       {transform-origin: left;}
 ul.left  li:hover:after {transform-origin: right;}
 
 // mobile navbar styling
+.links {
+  display: none;
+  width: 100%;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0 40px;
+}
+
+.links.mobile {
+  background-color: var(--primary-shade);
+  position: fixed;
+  display: block;
+  top: 3rem;
+  width: 100%;
+  height: fit-content;
+  bottom: 0;
+  left: 0;
+}
+
+// @media screen(sm) {
+@media only screen and (min-width: 768px) {
+  .mobile-icon {
+    display: none;
+  }
+
+  .links {
+    display: flex;
+    padding: 0;
+  }
+
+  .links a {
+    display: inline-flex;
+  }
+}
+
+// mobile icon animation
 .mobile-icon {
   width: 25px;
   height: 14px;
@@ -115,8 +156,8 @@ ul.left  li:hover:after {transform-origin: right;}
   position: absolute;
   width: 100%;
   height: 2px;
-  background-color: #fff;
-  transition: all 0.4s;
+  background-color: var(--secondary-tint);
+  transition: all 0.4s ease;
   transform-origin: center;
 }
 
@@ -124,73 +165,31 @@ ul.left  li:hover:after {transform-origin: right;}
 .middle-line {
   top: 0;
 }
-
 .mobile-icon:after,
 .middle-line {
   bottom: 0;
 }
-
 .mobile-icon:before {
-  width: 66%;
+  width: 70%;
 }
-
 .mobile-icon:after {
-  width: 33%;
+  width: 40%;
 }
 
 .middle-line {
   margin: auto;
 }
-
-.mobile-icon:hover:before,
-.mobile-icon:hover:after,
 .mobile-icon.active:before,
 .mobile-icon.active:after,
 .mobile-icon.active .middle-line {
   width: 100%;
 }
-
 .mobile-icon.active:before,
 .mobile-icon.active:after {
   top: 50%;
   transform: rotate(-45deg);
 }
-
 .mobile-icon.active .middle-line {
   transform: rotate(45deg);
 }
-
-.navbar-list {
-  display: none;
-  width: 100%;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0 40px;
-}
-
-.navbar-list.mobile {
-  background-color: rgba(0, 0, 0, 0.8);
-  position: fixed;
-  display: block;
-  height: calc(100% - 45px);
-  bottom: 0;
-  left: 0;
-}
-
-// @media screen(sm) {
-@media only screen and (min-width: 768px) {
-  .mobile-icon {
-    display: none;
-  }
-
-  .navbar-list {
-    display: flex;
-    padding: 0;
-  }
-
-  .navbar-list a {
-    display: inline-flex;
-  }
-}
-
 </style>

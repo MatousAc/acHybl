@@ -1,14 +1,22 @@
 <script>
   import Icon from "./Icon.svelte"
   export let subtitle = "subtitle"
-  export let icon = "none"
+  export let previous = "none"
+  export let next = "none"
 </script>
 
 <div class="flex justify-between items-center py-2">
-  <h2 class="text-2xl text-left">{subtitle}</h2>
-  {#if icon != "none"}
-  <Icon name={icon} class="text-2xl mr-20"/>
+  {#if previous != "none"}
+    <a href={previous}>
+      <Icon name="previous" class="text-4xl"/>
+    </a>
   {/if}
+  <h2 class="text-2xl text-left">{subtitle}</h2>
+  <a href={next}>
+    {#if next != "none"}
+      <Icon name="next" class="text-4xl"/>
+    {/if}
+  </a>
 </div>
 
 <style>

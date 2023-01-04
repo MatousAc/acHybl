@@ -18,7 +18,7 @@
 </script>
 
 <button
-  class="do-transition py-1 px-4 rounded-3xl flex justify-center items-center"
+class="do-transition py-1 px-4 rounded-3xl hidden md:flex justify-center items-center {$$props.class}"
   on:click={changeTheme}
 >
   <Icon name={selectedTheme}/>

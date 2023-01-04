@@ -4,6 +4,6 @@
   import P from "../../../components/P.svelte";
 </script>
 
-<H2 subtitle="mental foundation" icon="brain"/>
+<H2 previous="background" subtitle="mental foundation"/>
 
 <NextPage href="/">Home</NextPage>
