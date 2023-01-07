@@ -4,7 +4,7 @@
   import P from "../P.svelte";
 </script>
 
-<H2 previous="mentalFoundation" next="paradignShift">
+<H2 previous="mentalFoundation" next="paradigmShift">
 Failing to be Straight
 </H2>
 <P>
@@ -66,4 +66,4 @@ Overall, the most detrimental experience may not have been enduring the derision
 Having devalued my own non-straight life and losing motivation to become straight, I shuffled closer to an invisible line at the deep end of depression. Ending my life wasn't a novel idea, but it was one that grew almost impossible to refute. I was afraid I wouldn't make it if I kept thinking about my sexuality. Because I lived within two hundred feet of train tracks, I knew I only needed to slip up once to lose all my future fights. To push it as far away as possible, I aimed to focus so much of my energy and attention on my academics that I would have none left for thinking "gay thoughts" or even thinking considering my sexuality. Though this could only ever be a temporary solution, this strategy worked far better than anything else had.  
 </P>
 
-<NextPage href="paradignShift">Paradigm Shift</NextPage>
+<NextPage href="paradigmShift">Paradigm Shift</NextPage>
