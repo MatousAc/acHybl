@@ -37,7 +37,7 @@
   })
 </script>
 
-<nav class="w-full flex items-center px-8">
+<nav class="w-full flex items-center px-8 md:sticky">
   <!-- logo -->
   <a class="p-2 md:p-0" href="/">
     <Logo class="w-16 md:w-20" primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/>
@@ -67,7 +67,6 @@
 
 <style lang="scss">
 nav {
-  position: sticky;
   top: 0;
   background-color: var(--primary-shade);
   color: var(--secondary-shade);
