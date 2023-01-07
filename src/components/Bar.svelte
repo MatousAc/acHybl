@@ -37,7 +37,7 @@
   })
 </script>
 
-<nav class="w-full flex items-center px-8 md:sticky">
+<nav class="w-full flex items-center px-4 md:px-8 md:sticky">
   <!-- logo -->
   <a class="p-2 md:p-0" href="/">
     <Logo class="w-16 md:w-20" primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/>

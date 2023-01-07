@@ -5,12 +5,14 @@
   import type { SiteTheme } from "../ts/types";
   import { theme } from "../ts/stores";
 	import GoogleAnalytics from '../components/GoogleAnalytics.svelte';
+	import BrowserTheme from '../components/BrowserTheme.svelte';
   
   let selectedTheme: SiteTheme;
   theme.subscribe(val => selectedTheme = val)
 </script>
 
 <GoogleAnalytics/>
+<BrowserTheme/>
 
 <main class="skeleton {selectedTheme}">
   <Bar/>
@@ -22,7 +24,7 @@
 <style>
 .skeleton {
   color-scheme: light dark;
-  background-color: var(--accent);
+  background-color: var(--primary-hue);
   color: var(--text);
   
   min-height: 100vh;
