@@ -20,13 +20,13 @@
 <style>
 @media (prefers-color-scheme: light) {
   :root {
-    --address-bar-color: #494949;
+    --address-bar-color: "#494949";
   }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --address-bar-color: #240090;
+    --address-bar-color: "#240090";
   }
 }
 </style>
