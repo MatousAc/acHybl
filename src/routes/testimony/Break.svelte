@@ -1,0 +1,1 @@
+<p class="text-center my-4">───────</p>

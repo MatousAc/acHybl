@@ -1,14 +1,13 @@
 <script lang="ts">
-	import NextPage from "../../../components/NextPage.svelte";
-  import H2 from "../../../components/H2.svelte";
-  import P from "../../../components/P.svelte";
+	import NextPage from "../NextPage.svelte";
+  import H2 from "../H2.svelte";
+  import P from "../P.svelte";
+	import Break from "../Break.svelte";
 </script>
 
-<H2 
-previous="/testimony"
-subtitle="background"
-next="mentalFoundation"
-/>
+<H2 previous="/testimony" next="realization">
+  Background
+</H2>
 <P>
 My parents' journey with God, the church, and with each other began soon after the fall of communism in Czechoslovakia in 1989. Despite their newfound faith, much of their community continued embracing atheism. Thus, to spread God's message, my father decided to pursue an associate degree in literature evangelism at a small, conservative school in Wichita Arkansas. After completing the program, our family moved back to Europe to help spread God's word.
 </P>
@@ -26,8 +25,8 @@ One of the most touching experiences engrained in my mind portrays the academy's
 </P>
 <P>
 Due to the summer programs that my father organized for students, he tended to not be around during the times that I was at home from school. Although I realized that I had caring parents and was lucky to have both parents under one roof, I did not develop a deep relationship with my father. He succeeded in providing for his family amidst difficulty and encouraged excellent work ethic and productivity, yet I lack memories of enjoying quality time together.
-~~~
 </P>
+<Break/>
 <P>
 Little happened between the day my life was flown across the Atlantic and my next vivid memory less than a year later. I was quite excited when my grandma, by far my closest friend among extended family, decided to visit us. My parents needed to drive several hours to meet her at the airport, and to spare me a lengthy trip, they left me with the neighbors. 
 </P>
@@ -47,4 +46,4 @@ When my parents came to pick me up the next day, my mom confronted me about what
 I don't recount that experience because I was suddenly interested in other boys from that day forward. Neither molestation nor early same-sex sexual activity is a certain forecast for an individual's sexuality. However, even though I didn't think about that day for the next two years, it very well could have affected me.
 </P>
 
-<NextPage href="mentalFoundation">Mental Foundation</NextPage>
+<NextPage href="realization">Realization</NextPage>

@@ -46,7 +46,7 @@
   <!-- reactivity -->
   <!-- svelte-ignore a11y-click-events-have-key-events -->
   <div on:click={() => showMobileMenu = !showMobileMenu}
-  class={`mobile-icon${showMobileMenu ? ' active' : ''}`}>
+  class={`ml-auto mobile-icon${showMobileMenu ? ' active' : ''}`}>
     <div class="middle-line"></div>
   </div>
 
@@ -112,6 +112,7 @@ ul.left  li:hover:after {transform-origin: right;}
   justify-content: space-between;
   margin: 0;
   padding: 0 40px;
+  font-weight: 300;
 }
 
 .links.mobile {

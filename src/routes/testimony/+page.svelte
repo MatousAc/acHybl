@@ -1,13 +1,12 @@
 <script lang="ts">
-  import NextPage from "../../components/NextPage.svelte";
-  import H2 from "../../components/H2.svelte";
-  import P from "../../components/P.svelte";
+  import NextPage from "./NextPage.svelte";
+  import H2 from "./H2.svelte";
+  import P from "./P.svelte";
 </script>
 
-<H2 
-subtitle="foreword"
-next="/testimony/background"
-/>
+<H2 next="/testimony/background">
+  Foreword
+</H2>
 <P>
 In my third year of college, my mission trip supervisor asked me to tell her what my experience growing up in the church with an attraction to the same gender was like. After five seconds of mental gymnastics, I realized that a satisfactory answer comprised a four hour conversation that neither of us could have at a Friday night vespers.
 </P>
