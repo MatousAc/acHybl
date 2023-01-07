@@ -2,23 +2,28 @@
 	import { onMount } from "svelte";
   import { theme } from "../ts/stores";
 
-  let meta: HTMLMetaElement;
+  let light = "#494949"
+  let dark = "#240090"
+  let isLightQuery = "(prefers-color-scheme: light)"
+  let meta: HTMLMetaElement
 
-  let setSystemTheme = () => {
-    meta.setAttribute("content", 
-      getComputedStyle(meta).getPropertyValue("--clr"))
+  let systemTheme = (isLight: boolean) => {
+    if (isLight) {
+      meta.setAttribute("content", light)
+    } else {
+      meta.setAttribute("content", dark)
+    }
   }
   
   onMount(() => {
     theme.subscribe(val => {
-      if (val === "dark") {
-        meta.setAttribute("content", "#240090")
-      } else if (val === "light") {
-        meta.setAttribute("content", "#494949")
+      if (val === "system") {
+        systemTheme(window.matchMedia(isLightQuery).matches)
+        window.matchMedia(isLightQuery)
+          .addEventListener('change', 
+          ({ matches }) => systemTheme(matches))
       } else {
-        setSystemTheme()
-        window.matchMedia('(prefers-color-scheme: dark)')
-          .addEventListener('change', setSystemTheme)
+        systemTheme(val === "light")
       }
     })
   })
@@ -27,21 +32,3 @@
 <svelte:head>
   <meta bind:this={meta} name="theme-color">
 </svelte:head>
-
-<style>
-meta {
-  --clr: #240090;
-}
-
-@media (prefers-color-scheme: light) {
-  meta {
-    --clr: #494949;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  meta {
-    --clr: #240090;
-  }
-}
-</style>
