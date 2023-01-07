@@ -1,27 +1,39 @@
 <script lang="ts">
   import type { SiteTheme } from "../ts/types";
   import { theme } from "../ts/stores";
-	import Icon from "./Icon.svelte";
-  
-  let selectedTheme: SiteTheme;
-  theme.subscribe(val => selectedTheme = val)
+  import Fa from 'svelte-fa'
+  import { faMoon, faSun, faDisplay, type IconDefinition } from '@fortawesome/free-solid-svg-icons'
+
+  let selectedTheme: SiteTheme = "system";
+  let themeIcon: IconDefinition;
+  theme.subscribe(val => {
+    selectedTheme = val
+    if (selectedTheme === "system") {
+      themeIcon = faDisplay
+    } else if (selectedTheme === "light") {
+      themeIcon = faSun
+    } else {
+      themeIcon = faMoon
+    }
+  })
 
   $: changeTheme = () => {
     if (selectedTheme === "system") {
-      $theme = "light";
+      $theme = "light"
     } else if (selectedTheme === "light") {
-      $theme = "dark";
+      $theme = "dark"
     } else {
-      $theme = "system";
+      $theme = "system"
     }
   };
 </script>
 
 <button
-class="do-transition py-1 px-4 rounded-3xl hidden md:flex justify-center items-center {$$props.class}"
+  class="do-transition py-1 px-3 rounded-3xl hidden md:flex justify-center items-center {$$props.class}"
   on:click={changeTheme}
 >
-  <Icon name={selectedTheme}/>
+  <!-- <Icon name={selectedTheme}/> -->
+  <Fa icon={themeIcon} style="min-width: 2ch;"/>
   <span class=ml-1>{selectedTheme} theme</span>
 </button>
 

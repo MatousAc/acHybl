@@ -37,7 +37,7 @@
   })
 </script>
 
-<nav class="w-full flex items-center justify-between px-8">
+<nav class="w-full flex items-center px-8">
   <!-- logo -->
   <a class="p-2 md:p-0" href="/">
     <Logo class="w-16 md:w-20" primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/>
@@ -62,7 +62,7 @@
   </ul>
 
   <!-- theme -->
-  <ThemeSwitcher/>
+  <ThemeSwitcher class="ml-auto"/>
 </nav>
 
 <style lang="scss">

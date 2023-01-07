@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Icon from "./Icon.svelte";
+	import HeroIcon from "./HeroIcon.svelte";
   export let href: string
 </script>
 
@@ -7,6 +7,6 @@
 class="text-right">
   <a {href} class="flex justify-end items-center p-2">
     <slot/>
-    <Icon name="next" class="ml-2 text-2xl"/>
+    <HeroIcon name="next" class="ml-2 text-2xl"/>
   </a>
 </div>
