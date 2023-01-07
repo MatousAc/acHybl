@@ -29,7 +29,7 @@
 </script>
 
 <button
-  class="do-transition py-1 px-3 rounded-3xl hidden md:flex justify-center items-center {$$props.class}"
+  class="do-transition py-1 px-3 rounded-3xl md:flex justify-center items-center {$$props.class}"
   on:click={changeTheme}
 >
   <!-- <Icon name={selectedTheme}/> -->
