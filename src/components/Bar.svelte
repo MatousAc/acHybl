@@ -37,32 +37,31 @@
   })
 </script>
 
-<nav class="w-full flex items-center px-4 md:sticky">
+<nav class="w-full flex items-center px-4 md:sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
-  <a class="p-2 md:p-0" href="/">
+  <a class="logo p-2 md:p-0" href="/">
     <Logo class="w-16 md:w-20" primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/>
   </a>
 
-  <!-- reactivity -->
-  <!-- svelte-ignore a11y-click-events-have-key-events -->
-  <div on:click={() => showMobileMenu = !showMobileMenu}
-  class={`ml-auto mobile-icon${showMobileMenu ? ' active' : ''}`}>
-    <div class="middle-line"></div>
-  </div>
-
   <!-- links -->
   <ul bind:this={ul}
-    class="links md:flex md:px-8 {
-    ulMouseDirection}{showMobileMenu ? ' mobile' : ''}">
+    class="links md:flex md:px-8 {ulMouseDirection}">
     {#each pages as page}
       <li>
-        <a class="py-2 md:p-6" href={page.href}>{page.title}</a>
+        <a class="py-2 px-6 md:p-6 block" href={page.href}>{page.title}</a>
       </li>
     {/each}
   </ul>
 
   <!-- theme -->
-  <ThemeSwitcher class="ml-auto"/>
+  <ThemeSwitcher class="hidden md:flex md:ml-auto md:m-0"/>
+  
+  <!-- reactivity -->
+  <!-- svelte-ignore a11y-click-events-have-key-events -->
+  <div on:click={() => showMobileMenu = !showMobileMenu}
+    class={`mobile-icon${showMobileMenu ? ' active' : ''}`}>
+    <div class="middle-line"></div>
+  </div>
 </nav>
 
 <style lang="scss">
@@ -83,6 +82,7 @@ nav {
     }
   }
 }
+
 // link underline animation
 li:after {
   content: "";
@@ -103,42 +103,6 @@ ul.right li:after       {transform-origin: right;}
 ul.right li:hover:after {transform-origin: left;}
 ul.left  li:after       {transform-origin: left;}
 ul.left  li:hover:after {transform-origin: right;}
-
-// mobile navbar styling
-.links {
-  display: none;
-  width: 100%;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0 40px;
-  font-weight: 300;
-}
-
-.links.mobile {
-  background-color: var(--primary-shade);
-  position: fixed;
-  display: block;
-  top: 3rem;
-  width: 100%;
-  height: fit-content;
-  bottom: 0;
-  left: 0;
-}
-
-// @media screen(sm) {
-@media only screen and (min-width: 768px) {
-  .mobile-icon {
-    display: none;
-  }
-
-  .links {
-    display: flex;
-  }
-
-  .links a {
-    display: inline-flex;
-  }
-}
 
 // mobile icon animation
 .mobile-icon {
@@ -185,10 +149,64 @@ ul.left  li:hover:after {transform-origin: right;}
 }
 .mobile-icon.active:before,
 .mobile-icon.active:after {
-  top: 50%;
+  top: 45%;
   transform: rotate(-45deg);
 }
 .mobile-icon.active .middle-line {
   transform: rotate(45deg);
 }
+
+// mobile links navigation
+// eventually use: https://codepen.io/virgilpana/pen/NPzodr
+// or use an expanding circle with overflow hidden where overflow content is absolutely positioned
+nav.mobile {
+  .logo {
+    display: none;
+  }
+
+  :global(button) {
+    display: flex;
+    margin: 0.65rem 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  nav ul.links li a {
+    transform: translateX(100%);
+    transition-duration: 3s;
+  }
+  
+  nav ul.links li a {
+    transform: translateX(0);
+  }
+}
+
+.links {
+  display: none;
+  justify-content: space-between;
+  margin: 0;
+  font-weight: 300;
+}
+
+.mobile .links {
+  background-color: var(--primary-shade);
+  position: fixed;
+  display: block;
+  top: 3rem;
+  width: 100%;
+  height: fit-content;
+  bottom: 0;
+  left: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .mobile-icon {
+    display: none;
+  }
+
+  .links {
+    display: flex;
+  }
+}
+
 </style>

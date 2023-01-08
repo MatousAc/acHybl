@@ -29,12 +29,11 @@
 </script>
 
 <button
-  class="do-transition py-1 px-3 rounded-3xl flex justify-center items-center {$$props.class}"
+  class="do-transition md:py-1 px-3 rounded-3xl justify-center items-center {$$props.class}"
   on:click={changeTheme}
 >
-  <!-- <Icon name={selectedTheme}/> -->
-  <Fa icon={themeIcon} style="min-width: 2ch;"/>
-  <span class=ml-1>{selectedTheme} theme</span>
+  <Fa class="icon" icon={themeIcon}/>
+  <span class="label ml-2 md:ml-1">{selectedTheme}</span>
 </button>
 
 <style lang="scss">
@@ -46,7 +45,30 @@ button {
 
   span {
     text-transform: capitalize;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  span {
+    min-width: 6ch;
+  }
+
+  .icon {
+    min-width: 2ch;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  span {
     min-width: 12ch;
+  }
+
+  span.label::after {
+    content: " theme";
+  }
+
+  .icon {
+    min-width: 2ch;
   }
 }
 </style>

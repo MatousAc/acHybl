@@ -20,7 +20,6 @@
 
 <style>
 h2 {
-  text-transform: capitalize;
   color: var(--secondary-tint);
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
