@@ -1,10 +1,10 @@
 .skeleton.light {
-  --background: #FBFDFF;
-  --text: black;
-  --center-top: #C6E8F5;
-  --center-bottom: #449ECF;
+  --background: #fbfdff;
+  --text: #182d3e;
+  --center-top: #c6e8f5;
+  --center-bottom: #449ecf;
   --nav: #264863;
-  --accent: #368F84;
+  --accent: #368f84;
   --menu: var(--background);
   --mobile-link-background: var(--nav);
   --logo-primary: var(--background);
@@ -14,21 +14,21 @@
   --nav-text: var(--background);
   --theme-background: var(--background);
   --theme-text: var(--text);
-  --h1: var(--nav);
+  --h1: #213c52;
 }
 .skeleton.dark {
-  --background: #0C0910;
+  --background: #0c0910;
   --text: white;
-  --center-top: #1A1B25;
-  --center-bottom: #7F7979;
-  --nav: var(--background);
-  --accent: #FEC9F1;
+  --center-top: #1a1b25;
+  --center-bottom: #7f7979;
+  --nav: #17121f;
+  --accent: #c9d1fe;
   --menu: var(--text);
   --mobile-link-background: var(--background);
   --logo-primary: var(--text);
   --logo-secondary: var(--accent);
   --nav-underline: var(--nav-border);
-  --nav-border: #FFFCEB;
+  --nav-border: #fffceb;
   --nav-text: var(--text);
   --theme-background: var(--background);
   --theme-text: var(--text);
@@ -37,12 +37,12 @@
 
 @media (prefers-color-scheme: light) {
   .skeleton {
-    --background: #FBFDFF;
-    --text: black;
-    --center-top: #C6E8F5;
-    --center-bottom: #449ECF;
+    --background: #fbfdff;
+    --text: #182d3e;
+    --center-top: #c6e8f5;
+    --center-bottom: #449ecf;
     --nav: #264863;
-    --accent: #368F84;
+    --accent: #368f84;
     --menu: var(--background);
     --mobile-link-background: var(--nav);
     --logo-primary: var(--background);
@@ -58,18 +58,18 @@
 
 @media (prefers-color-scheme: dark) {
   .skeleton {
-    --background: #0C0910;
+    --background: #0c0910;
     --text: white;
-    --center-top: #1A1B25;
-    --center-bottom: #7F7979;
-    --nav: var(--background);
-    --accent: #FEC9F1;
+    --center-top: #1a1b25;
+    --center-bottom: #7f7979;
+    --nav: #17121f;
+    --accent: #c9d1fe;
     --menu: var(--text);
     --mobile-link-background: var(--background);
     --logo-primary: var(--text);
     --logo-secondary: var(--accent);
     --nav-underline: var(--nav-border);
-    --nav-border: #FFFCEB;
+    --nav-border: #fffceb;
     --nav-text: var(--text);
     --theme-background: var(--background);
     --theme-text: var(--text);
