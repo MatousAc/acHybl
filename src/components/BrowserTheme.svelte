@@ -3,7 +3,7 @@
   import { theme } from "../ts/stores";
 
   let light = "#264863"
-  let dark = "#0C0910"
+  let dark = "#17121f"
   let isLightQuery = "(prefers-color-scheme: light)"
   let meta: HTMLMetaElement
 
