@@ -17,7 +17,6 @@
     { title: "info", href: "/info" }
   ]
 
-  // media match query handler
   const mediaQueryHandler = (e: { matches: any; }) => {
     // reset mobile state
     if (!e.matches) {
@@ -44,8 +43,10 @@
   </a>
 
   <!-- links -->
+  <!-- svelte-ignore a11y-click-events-have-key-events -->
   <ul bind:this={ul}
-    class="links md:flex md:px-8 {ulMouseDirection}">
+    class="links md:flex md:px-8 {ulMouseDirection}"
+    on:click={() => showMobileMenu = false}>
     {#each pages as page}
       <li>
         <a class="py-2 px-6 md:p-6 block" href={page.href}>{page.title}</a>
