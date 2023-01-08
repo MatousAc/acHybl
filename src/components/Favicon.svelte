@@ -1,4 +1,4 @@
-<script lang="ts">
+<!-- <script lang="ts">
 	import { onMount } from "svelte";
 
   let light = "/logoLight.png"
@@ -24,4 +24,8 @@
 
 <svelte:head>
   <link bind:this={iconLink} rel="icon">
+</svelte:head> -->
+
+<svelte:head>
+  <link rel="icon" href="/logo.png">
 </svelte:head>
