@@ -12,7 +12,7 @@
   // links
   const pages = [
     { title: "home", href: "/" },
-    { title: "resume", href: "./resources/resume.pdf" },
+    { title: "resume", href: "./resume" },
     { title: "testimony", href: "/testimony" },
     { title: "info", href: "/info" }
   ]
@@ -37,7 +37,7 @@
   })
 </script>
 
-<nav class="w-full flex items-center px-4 md:sticky justify-between{showMobileMenu ? ' mobile' : ''}">
+<nav class="w-full flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
   <a class="logo p-2 md:p-0" href="/">
     <Logo class="w-16 md:w-20"/>
