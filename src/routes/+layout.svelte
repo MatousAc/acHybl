@@ -4,14 +4,18 @@
 	import Bar from '../components/Bar.svelte';
   import type { SiteTheme } from "../ts/types";
   import { theme } from "../ts/stores";
-	import GoogleAnalytics from '../components/GoogleAnalytics.svelte';
-	import BrowserTheme from '../components/BrowserTheme.svelte';
+	import GoogleAnalytics from 'comp/GoogleAnalytics.svelte';
+	import BrowserTheme from 'comp/BrowserTheme.svelte';
+	import Fonts from 'comp/Fonts.svelte';
+	import Favicon from 'comp/Favicon.svelte';
   
   let selectedTheme: SiteTheme;
   theme.subscribe(val => selectedTheme = val)
 </script>
 
 <GoogleAnalytics/>
+<Fonts/>
+<Favicon/>
 <BrowserTheme/>
 
 <main class="skeleton {selectedTheme}">
