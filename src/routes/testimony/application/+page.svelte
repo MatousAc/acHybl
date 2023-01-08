@@ -1,8 +1,8 @@
 <script lang="ts">
-	import NextPage from "../NextPage.svelte";
-  import H2 from "../H2.svelte";
-  import P from "../P.svelte";
-	import Break from "../Break.svelte";
+	import NextPage from "comp/NextPage.svelte";
+  import H2 from "comp/H2.svelte";
+  import P from "comp/P.svelte";
+	import Break from "comp/Break.svelte";
 </script>
 
 <H2 previous="paradigmShift">

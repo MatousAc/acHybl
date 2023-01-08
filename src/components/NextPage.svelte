@@ -1,5 +1,5 @@
 <script lang="ts">
-	import HeroIcon from "../../components/HeroIcon.svelte";
+	import HeroIcon from "comp/HeroIcon.svelte";
   export let href: string
 </script>
 

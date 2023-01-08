@@ -1,5 +1,5 @@
 <script>
-  import HeroIcon from "../../components/HeroIcon.svelte"
+  import HeroIcon from "comp/HeroIcon.svelte"
   export let previous = "none"
   export let next = "none"
 </script>

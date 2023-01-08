@@ -1,7 +1,7 @@
 <script lang="ts">
-  import NextPage from "./NextPage.svelte";
-  import H2 from "./H2.svelte";
-  import P from "./P.svelte";
+  import NextPage from "comp/NextPage.svelte";
+  import H2 from "comp/H2.svelte";
+  import P from "comp/P.svelte";
 </script>
 
 <H2 next="/testimony/background">

@@ -1,6 +1,7 @@
 import preprocess from 'svelte-preprocess';
 import { vitePreprocess } from '@sveltejs/kit/vite';
 import adapter from '@sveltejs/adapter-cloudflare';
+import path from 'path'
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -14,7 +15,12 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter()
+		adapter: adapter(),
+    alias: {
+      // this will match a directory and its contents
+      // (`my-directory/x` resolves to `path/to/my-directory/x`)
+      'comp': './src/components'
+    }
 	}
 };
 

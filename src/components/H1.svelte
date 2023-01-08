@@ -1,5 +1,5 @@
 <script>
-  import HeroIcon from "../../components/HeroIcon.svelte"
+  import HeroIcon from "comp/HeroIcon.svelte"
   export let title = "title"
   export let icon = "none"
 </script>
