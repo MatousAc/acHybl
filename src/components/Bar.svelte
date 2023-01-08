@@ -40,7 +40,7 @@
 <nav class="w-full flex items-center px-4 md:sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
   <a class="logo p-2 md:p-0" href="/">
-    <Logo class="w-16 md:w-20" primaryColor="var(--text)" secondaryColor="var(--secondary-tint)"/>
+    <Logo class="w-16 md:w-20" primaryColor="var(--background)" secondaryColor="var(--center-top)"/>
   </a>
 
   <!-- links -->
@@ -67,8 +67,8 @@
 <style lang="scss">
 nav {
   top: 0;
-  background-color: var(--primary-shade);
-  color: var(--secondary-shade);
+  background-color: var(--nav);
+  color: var(--background);
   font-size: 1.2rem;
    ul.links {
      width: fit-content;
@@ -119,7 +119,7 @@ ul.left  li:hover:after {transform-origin: right;}
   position: absolute;
   width: 100%;
   height: 2px;
-  background-color: var(--secondary-tint);
+  background-color: var(--background);
   transition: all 0.4s ease;
   transform-origin: center;
 }
@@ -166,18 +166,7 @@ nav.mobile {
 
   :global(button) {
     display: flex;
-    margin: 0.65rem 0;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  nav ul.links li a {
-    transform: translateX(100%);
-    transition-duration: 3s;
-  }
-  
-  nav ul.links li a {
-    transform: translateX(0);
+    margin: 0.68rem 0;
   }
 }
 
@@ -189,7 +178,7 @@ nav.mobile {
 }
 
 .mobile .links {
-  background-color: var(--primary-shade);
+  background-color: var(--nav);
   position: fixed;
   display: block;
   top: 3rem;

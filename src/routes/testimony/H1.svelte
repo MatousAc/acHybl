@@ -13,7 +13,7 @@
 
 <style lang="scss">
 div {
-  color: var(--secondary-tint);
+  color: var(--nav);
   h1 {
     text-transform: capitalize;
   }

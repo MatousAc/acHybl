@@ -1,55 +1,28 @@
 .skeleton.light {
-  --primary-hue: white;
-  --primary-tint: #727D71;
-  --primary-shade: #9b9b9b;
-  --secondary-hue: #1c1c1c;
-  --secondary-tint: #595959;
-  --secondary-shade: black;
-  --accent: #494949;
+  --background: #FBFDFF;
   --text: black;
+  --center-top: #C6E8F5;
+  --center-bottom: #449ECF;
+  --nav: #264863;
+  --accent: #368F84;
 }
-
-.skeleton.light.blue {
-  --primary-hue: #AEECEF;
-  --primary-tint: #3066BE;
-  --primary-shade: #6D9DC5;
-  --secondary-hue: #119DA4;
-  --secondary-shade: #80DED9;
-  --accent: white;
-  --text: black;
-}
-
 .skeleton.dark {
-  --primary-hue: #1E1F26;
-  --primary-tint: #0C0032;
-  --primary-shade: #4D648D;
-  --secondary-hue: #283655;
-  --secondary-tint: #D0E1F9;
-  --secondary-shade: #D0E1F9;
-  --accent: #240090;
+  --background: #260E2E;
   --text: white;
-}
-
-.skeleton.dark.mint {
-  --primary-hue: #2E3047;
-  --primary-tint: #3C3F58;
-  --primary-shade: #707793;
-  --secondary-hue: #43455C;
-  --secondary-shade: grey;
-  --accent: white;
-  --text: #3BBA9C;
+  --center-top: #305774;
+  --center-bottom: #39254A;
+  --nav: #ACD7F2;
+  --accent: #E4AAD3;
 }
 
 @media (prefers-color-scheme: light) {
-  .skeleton.system {
-    --primary-hue: white;
-    --primary-tint: #727D71;
-    --primary-shade: #9b9b9b;
-    --secondary-hue: #1c1c1c;
-    --secondary-tint: #595959;
-    --secondary-shade: black;
-    --accent: #494949;
+  .skeleton.light {
+    --background: #FBFDFF;
     --text: black;
+    --center-top: #C6E8F5;
+    --center-bottom: #449ECF;
+    --nav: #264863;
+    --accent: #368F84;
   }
 }
 

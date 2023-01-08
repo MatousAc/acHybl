@@ -17,10 +17,3 @@
     {/if}
   </a>
 </div>
-
-<style>
-h2 {
-  color: var(--secondary-tint);
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-</style>

@@ -38,8 +38,8 @@
 
 <style lang="scss">
 button {
-  background-color: var(--primary-hue);
-  border: 2px solid var(--accent);
+  background-color: var(--background);
+  border: 2px solid var(--text);
   color: var(--text);
   font-size: 0.9em;
 
