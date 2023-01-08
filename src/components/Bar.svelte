@@ -40,7 +40,7 @@
 <nav class="w-full flex items-center px-4 md:sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
   <a class="logo p-2 md:p-0" href="/">
-    <Logo class="w-16 md:w-20" primaryColor="var(--background)" secondaryColor="var(--center-top)"/>
+    <Logo class="w-16 md:w-20"/>
   </a>
 
   <!-- links -->
@@ -68,8 +68,9 @@
 nav {
   top: 0;
   background-color: var(--nav);
-  color: var(--background);
+  color: var(--nav-text);
   font-size: 1.2rem;
+  border-bottom: 2px var(--nav-border) solid;
    ul.links {
      width: fit-content;
      
@@ -87,13 +88,13 @@ nav {
 li:after {
   content: "";
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   left: 0;
   width: 100.5%;
 
-  height: 0.1em;
-  background: var(--accent);
-  transition: transform 0.2s;
+  height: 0.11em;
+  background: var(--nav-underline);
+  transition: transform 0.3s;
   transform: scaleX(0);
 }
 li:hover:after {
@@ -119,7 +120,7 @@ ul.left  li:hover:after {transform-origin: right;}
   position: absolute;
   width: 100%;
   height: 2px;
-  background-color: var(--background);
+  background-color: var(--menu);
   transition: all 0.4s ease;
   transform-origin: center;
 }
@@ -178,7 +179,7 @@ nav.mobile {
 }
 
 .mobile .links {
-  background-color: var(--nav);
+  background-color: var(--mobile-link-background);
   position: fixed;
   display: block;
   top: 3rem;

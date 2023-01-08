@@ -5,36 +5,74 @@
   --center-bottom: #449ECF;
   --nav: #264863;
   --accent: #368F84;
+  --menu: var(--background);
+  --mobile-link-background: var(--nav);
+  --logo-primary: var(--background);
+  --logo-secondary: var(--center-top);
+  --nav-underline: var(--background);
+  --nav-border: var(--background);
+  --nav-text: var(--background);
+  --theme-background: var(--background);
+  --theme-text: var(--text);
+  --h1: var(--nav);
 }
 .skeleton.dark {
-  --background: #260E2E;
+  --background: #0C0910;
   --text: white;
-  --center-top: #305774;
-  --center-bottom: #39254A;
-  --nav: #ACD7F2;
-  --accent: #E4AAD3;
+  --center-top: #1A1B25;
+  --center-bottom: #7F7979;
+  --nav: var(--background);
+  --accent: #FEC9F1;
+  --menu: var(--text);
+  --mobile-link-background: var(--background);
+  --logo-primary: var(--text);
+  --logo-secondary: var(--accent);
+  --nav-underline: var(--nav-border);
+  --nav-border: #FFFCEB;
+  --nav-text: var(--text);
+  --theme-background: var(--background);
+  --theme-text: var(--text);
+  --h1: var(--accent);
 }
 
 @media (prefers-color-scheme: light) {
-  .skeleton.light {
+  .skeleton {
     --background: #FBFDFF;
     --text: black;
     --center-top: #C6E8F5;
     --center-bottom: #449ECF;
     --nav: #264863;
     --accent: #368F84;
+    --menu: var(--background);
+    --mobile-link-background: var(--nav);
+    --logo-primary: var(--background);
+    --logo-secondary: var(--center-top);
+    --nav-underline: var(--background);
+    --nav-border: var(--background);
+    --nav-text: var(--background);
+    --theme-background: var(--background);
+    --theme-text: var(--text);
+    --h1: var(--nav);
   }
 }
 
 @media (prefers-color-scheme: dark) {
-  .skeleton.system {
-    --primary-hue: #1E1F26;
-    --primary-tint: #0C0032;
-    --primary-shade: #4D648D;
-    --secondary-hue: #283655;
-    --secondary-tint: #D0E1F9;
-    --secondary-shade: #D0E1F9;
-    --accent: #240090;
+  .skeleton {
+    --background: #0C0910;
     --text: white;
+    --center-top: #1A1B25;
+    --center-bottom: #7F7979;
+    --nav: var(--background);
+    --accent: #FEC9F1;
+    --menu: var(--text);
+    --mobile-link-background: var(--background);
+    --logo-primary: var(--text);
+    --logo-secondary: var(--accent);
+    --nav-underline: var(--nav-border);
+    --nav-border: #FFFCEB;
+    --nav-text: var(--text);
+    --theme-background: var(--background);
+    --theme-text: var(--text);
+    --h1: var(--accent);
   }
 }

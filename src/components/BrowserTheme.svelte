@@ -2,8 +2,8 @@
 	import { onMount } from "svelte";
   import { theme } from "../ts/stores";
 
-  let light = "#494949"
-  let dark = "#240090"
+  let light = "#264863"
+  let dark = "#0C0910"
   let isLightQuery = "(prefers-color-scheme: light)"
   let meta: HTMLMetaElement
 

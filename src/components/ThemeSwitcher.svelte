@@ -38,9 +38,9 @@
 
 <style lang="scss">
 button {
-  background-color: var(--background);
-  border: 2px solid var(--text);
-  color: var(--text);
+  background-color: var(--theme-background);
+  border: 2px solid var(--theme-text);
+  color: var(--theme-text);
   font-size: 0.9em;
 
   span {
