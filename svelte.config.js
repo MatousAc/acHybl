@@ -15,6 +15,10 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
+    files: {
+      assets: "src/assets",
+      routes: "src/routes"
+    },
     alias: {
       // this will match a directory and its contents
       // (`my-directory/x` resolves to `path/to/my-directory/x`)
