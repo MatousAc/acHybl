@@ -5,6 +5,10 @@
 
 </script>
 
+<svelte:head>
+  <title>Ac Hýbl | Portfolio</title>
+</svelte:head>
+
 <div class="md:flex justify-between">
   <div class="intro py-12 px-4">
     <h2>This page is still under development.</h2>
@@ -12,7 +16,7 @@
   </div>
   <div class="acHybl flex flex-col justify-start items-center">
     <img src="/portraitSquare.jpg" alt="Me" class="rounded-full" />
-    <H1>Ac Hybl</H1>
+    <H1>Ac Hýbl</H1>
     <a href="https://github.com/MatousAc">Github</a>
   </div>
 </div>
