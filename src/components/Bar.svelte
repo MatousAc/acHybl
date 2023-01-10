@@ -49,7 +49,7 @@
     on:click={() => showMobileMenu = false}>
     {#each pages as page}
       <li>
-        <a class="py-2 px-6 md:p-6 block" href={page.href}>{page.title}</a>
+        <a class="py-2 px-4 md:p-6 block" href={page.href}>{page.title}</a>
       </li>
     {/each}
   </ul>
