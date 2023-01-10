@@ -71,7 +71,7 @@ nav {
   background-color: var(--nav);
   color: var(--nav-text);
   font-size: 1.2rem;
-  border-bottom: 2px var(--nav-border) solid;
+  border-bottom: var(--nav-border-bottom-width) var(--nav-border) solid;
    ul.links {
      width: fit-content;
      
@@ -89,11 +89,11 @@ nav {
 li:after {
   content: "";
   position: absolute;
-  bottom: -1px;
+  bottom: var(--nav-underline-distance);
   left: 0;
   width: 100.5%;
 
-  height: 0.11em;
+  height: 0.1rem;
   background: var(--nav-underline);
   transition: transform 0.3s;
   transform: scaleX(0);

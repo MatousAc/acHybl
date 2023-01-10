@@ -27,5 +27,5 @@
 </svelte:head> -->
 
 <svelte:head>
-  <link rel="icon" href="/logo.png">
+  <link rel="icon" href="/logoCathemeral.png">
 </svelte:head>

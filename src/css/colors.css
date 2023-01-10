@@ -10,6 +10,8 @@
   --logo-primary: var(--background);
   --logo-secondary: var(--center-top);
   --nav-underline: var(--background);
+  --nav-underline-distance: 0;
+  --nav-border-bottom-width: 0;
   --nav-border: var(--background);
   --nav-text: var(--background);
   --theme-background: var(--background);
@@ -27,8 +29,10 @@
   --mobile-link-background: var(--background);
   --logo-primary: var(--text);
   --logo-secondary: var(--accent);
-  --nav-underline: var(--nav-border);
-  --nav-border: #fffceb;
+  --nav-underline-distance: -0.13rem;
+  --nav-underline: #fffceb;
+  --nav-border-bottom-width: 2px;
+  --nav-border: #423b4c;
   --nav-text: var(--text);
   --theme-background: var(--background);
   --theme-text: var(--text);
@@ -68,8 +72,8 @@
     --mobile-link-background: var(--background);
     --logo-primary: var(--text);
     --logo-secondary: var(--accent);
-    --nav-underline: var(--nav-border);
-    --nav-border: #fffceb;
+    --nav-underline: #fffceb;
+    --nav-border: #423b4c;
     --nav-text: var(--text);
     --theme-background: var(--background);
     --theme-text: var(--text);
