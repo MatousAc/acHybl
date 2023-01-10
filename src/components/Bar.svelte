@@ -85,27 +85,28 @@ nav {
   }
 }
 
-// link underline animation
-li:after {
-  content: "";
-  position: absolute;
-  bottom: var(--nav-underline-distance);
-  left: 0;
-  width: 100.5%;
+// link underline animation for large displays
+@media only screen and (min-width: 768px) {
+  li:after {
+    content: "";
+    position: absolute;
+    bottom: var(--nav-underline-distance);
+    left: 0;
+    width: 100.5%;
 
-  height: 0.1rem;
-  background: var(--nav-underline);
-  transition: transform 0.3s;
-  transform: scaleX(0);
+    height: 0.1rem;
+    background: var(--nav-underline);
+    transition: transform 0.3s;
+    transform: scaleX(0);
+  }
+  li:hover:after {
+    transform: scaleX(1);
+  }
+  ul.right li:after       {transform-origin: right;}
+  ul.right li:hover:after {transform-origin: left;}
+  ul.left  li:after       {transform-origin: left;}
+  ul.left  li:hover:after {transform-origin: right;}
 }
-li:hover:after {
-  transform: scaleX(1);
-}
-ul.right li:after       {transform-origin: right;}
-ul.right li:hover:after {transform-origin: left;}
-ul.left  li:after       {transform-origin: left;}
-ul.left  li:hover:after {transform-origin: right;}
-
 // mobile icon animation
 .mobile-icon {
   width: 25px;
