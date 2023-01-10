@@ -71,7 +71,7 @@
     --nav: #17121f;
     --accent: #c9d1fe;
     --menu: var(--text);
-    --mobile-link-background: var(--background);
+    --mobile-link-background: var(--nav);
     --logo-primary: var(--text);
     --logo-secondary: var(--accent);
     --nav-underline-distance: -0.13rem;
