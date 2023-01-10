@@ -8,6 +8,7 @@
 	import BrowserTheme from 'comp/BrowserTheme.svelte';
 	import Fonts from 'comp/Fonts.svelte';
 	import Favicon from 'comp/Favicon.svelte';
+	import Footer from 'comp/Footer.svelte';
   
   let selectedTheme: SiteTheme;
   theme.subscribe(val => selectedTheme = val)
@@ -18,11 +19,12 @@
 <Favicon/>
 <BrowserTheme/>
 
-<main class="skeleton {selectedTheme}">
+<main class="skeleton flex flex-col {selectedTheme}">
   <Bar/>
   <div class="content width-full px-4 mx-auto md:py-8 md:px-20">
     <slot/>
   </div>
+  <Footer/>
 </main>
 
 <style>

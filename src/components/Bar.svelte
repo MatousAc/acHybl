@@ -38,7 +38,7 @@
 
 <nav class="w-full z-10 flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
-  <a class="logo p-2 md:p-0" href="/">
+  <a class="logo p-2 md:p-0" href="/testimony">
     <Logo class="w-16 md:w-20"/>
   </a>
 

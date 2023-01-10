@@ -18,9 +18,12 @@
   .conversation{
     margin-top: 1rem;
     margin-bottom: 1rem;
-    padding: 0.5rem 0;
-    border-top: 1px var(--primary-shade) solid;
-    border-bottom: 1px var(--primary-shade) solid;
+    /* padding: 0 0.3rem; */
+    border-style: solid;
+    border-width: 0px;
+    border-image: linear-gradient(to right, var(--background), var(--text), var(--text), var(--text), var(--background)) 1% 0%;
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
   }
 }
 </style>
