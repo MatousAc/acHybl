@@ -69,7 +69,7 @@
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <div 
 on:click={() => showMobileMenu = false}
-class="pageDimmer hidden fixed top-0 left-0 w-full h-full"
+class="pageDimmer hidden fixed top-0 left-0 w-full"
 ></div>
 
 <style lang="scss">
@@ -183,6 +183,7 @@ nav.mobile {
 nav.mobile ~ div.pageDimmer {
   display: block;
   background-color: #0000008f;
+  height: 110%;
 }
 
 .links {
