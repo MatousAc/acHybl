@@ -36,7 +36,7 @@
   })
 </script>
 
-<nav class="w-full flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}">
+<nav class="w-full z-10 flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
   <a class="logo p-2 md:p-0" href="/">
     <Logo class="w-16 md:w-20"/>
@@ -45,7 +45,7 @@
   <!-- links -->
   <!-- svelte-ignore a11y-click-events-have-key-events -->
   <ul bind:this={ul}
-    class="links md:flex md:px-8 {ulMouseDirection}"
+    class="links md:flex md:px-5 {ulMouseDirection}"
     on:click={() => showMobileMenu = false}>
     {#each pages as page}
       <li>
@@ -64,6 +64,13 @@
     <div class="middle-line"></div>
   </div>
 </nav>
+
+<!-- page dimmer -->
+<!-- svelte-ignore a11y-click-events-have-key-events -->
+<div 
+on:click={() => showMobileMenu = false}
+class="pageDimmer hidden fixed top-0 left-0 w-full h-full"
+></div>
 
 <style lang="scss">
 nav {
@@ -159,7 +166,7 @@ nav {
   transform: rotate(45deg);
 }
 
-// mobile links navigation
+// mobile link display animation
 // eventually use: https://codepen.io/virgilpana/pen/NPzodr
 // or use an expanding circle with overflow hidden where overflow content is absolutely positioned
 nav.mobile {
@@ -171,6 +178,11 @@ nav.mobile {
     display: flex;
     margin: 0.68rem 0;
   }
+}
+
+nav.mobile ~ div.pageDimmer {
+  display: block;
+  background-color: #0000008f;
 }
 
 .links {
