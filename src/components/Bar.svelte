@@ -10,11 +10,12 @@
   let ul: HTMLUListElement;
 
   // links
-  const pages = [
-    { title: "home", href: "/" },
-    { title: "resume", href: "resume.pdf" },
-    { title: "testimony", href: "/testimony" },
-    { title: "info", href: "/info" }
+  const links = [
+    { title: "home", href: "/", target: "_self" },
+    { title: "resume", href: "resume.pdf", target: "_blank" },
+    { title: "research", href: "Azure AutoML research.pdf", target: "_blank" },
+    { title: "testimony", href: "/testimony", target: "_self" },
+    { title: "info", href: "/info", target: "_self" }
   ]
 
   const mediaQueryHandler = (e: { matches: any; }) => {
@@ -47,9 +48,12 @@
   <ul bind:this={ul}
     class="links md:flex md:px-5 {ulMouseDirection}"
     on:click={() => showMobileMenu = false}>
-    {#each pages as page}
+    {#each links as link}
       <li>
-        <a class="py-2 px-4 md:p-6 block" href={page.href}>{page.title}</a>
+        <a class="py-2 px-4 md:p-6 block" 
+          href={link.href}
+          target={link.target}
+          >{link.title}</a>
       </li>
     {/each}
   </ul>
