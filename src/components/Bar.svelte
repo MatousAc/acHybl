@@ -13,7 +13,7 @@
   const links = [
     { title: "home", href: "/", target: "_self" },
     { title: "resume", href: "resume.pdf", target: "_blank" },
-    { title: "research", href: "Azure AutoML research.pdf", target: "_blank" },
+    { title: "research", href: "AzureAutoML.pdf", target: "_blank" },
     { title: "testimony", href: "/testimony", target: "_self" },
     { title: "info", href: "/info", target: "_self" }
   ]
