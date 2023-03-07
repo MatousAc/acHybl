@@ -1,6 +1,6 @@
 <script lang="ts">
 	import H1 from "comp/H1.svelte";
-
+  import UnitPlayground from 'unitplayground'
 
 
 </script>
@@ -21,7 +21,16 @@
   </div>
 </div>
 
+<div class=unitPlayground>
+  <UnitPlayground/>
+</div>
+
 <style>
+.unitPlayground {
+  width: 800px;
+  height: 500px;
+}
+
 img {
   width: 12rem;
 }

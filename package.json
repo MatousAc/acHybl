@@ -37,6 +37,7 @@
 		"github-calendar": "^2.3.1",
 		"sass": "^1.57.1",
 		"svelte-fa": "^3.0.3",
+		"unitplayground": "^0.1.0",
 		"universal-cookie": "^4.0.4"
 	}
 }
