@@ -1,6 +1,6 @@
 <script lang="ts">
 	import H1 from "comp/H1.svelte";
-  import UnitPlayground from 'unitplayground'
+  // import UnitPlayground from 'unitplayground'
 
 
 </script>
@@ -21,9 +21,9 @@
   </div>
 </div>
 
-<div class=unitPlayground>
+<!-- <div class=unitPlayground>
   <UnitPlayground/>
-</div>
+</div> -->
 
 <style>
 .unitPlayground {
