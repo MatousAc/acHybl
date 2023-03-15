@@ -37,7 +37,7 @@
   })
 </script>
 
-<nav class="w-full z-10 flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}">
+<nav class="w-full z-20 flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}">
   <!-- logo -->
   <a class="logo p-2 md:p-0" href="/testimony">
     <Logo class="w-16 md:w-20"/>
@@ -73,7 +73,7 @@
 <!-- svelte-ignore a11y-click-events-have-key-events -->
 <div 
 on:click={() => showMobileMenu = false}
-class="pageDimmer hidden fixed top-0 left-0 w-full"
+class="pageDimmer hidden fixed top-0 left-0 w-full z-10"
 ></div>
 
 <style lang="scss">
