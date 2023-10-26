@@ -15,15 +15,18 @@ const config = {
 
 	kit: {
 		adapter: adapter(),
-    files: {
-      assets: "src/assets",
-      routes: "src/routes"
-    },
-    alias: {
-      // this will match a directory and its contents
-      // (`my-directory/x` resolves to `path/to/my-directory/x`)
-      'comp': './src/components'
-    }
+		files: {
+			assets: 'src/assets',
+			routes: 'src/routes'
+		},
+		alias: {
+			// this will match a directory and its contents
+			// (`my-directory/x` resolves to `path/to/my-directory/x`)
+			comp: './src/components',
+			ts: './src/ts',
+			tp: './src/components/testimonyPieces',
+			pp: './src/components/projectPieces'
+		}
 	}
 };
 

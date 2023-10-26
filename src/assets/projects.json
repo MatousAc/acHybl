@@ -1,0 +1,34 @@
+[
+	{
+		"title": "LLaMA 2 Training",
+		"year": 2023,
+		"month": "Nov",
+		"tags": ["python"],
+		"bodyType": "image",
+		"imgSrc": "LLaMA2ConceptMap.png"
+	},
+	{
+		"title": "Orbify",
+		"year": 2022,
+		"month": "June",
+		"tags": ["python"],
+		"bodyType": "libraryElement",
+		"library": "unitplayground"
+	},
+	{
+		"title": "Cartesian Problems",
+		"year": 2022,
+		"month": "Dec",
+		"tags": ["java"],
+		"bodyType": "image",
+		"imgSrc": "LLaMA2ConceptMap.png"
+	},
+	{
+		"title": "UnitPlayground",
+		"year": 2023,
+		"month": "April",
+		"tags": ["svelte"],
+		"bodyType": "libraryElement",
+		"library": "unitplayground"
+	}
+]
