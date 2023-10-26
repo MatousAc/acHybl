@@ -1,5 +1,12 @@
+<script>
+	import H2 from 'comp/H2.svelte';
+</script>
+
 <svelte:head>
-  <title>Ac Hýbl | Info</title>
+	<title>Ac Hýbl | Info</title>
 </svelte:head>
 
-<h1>This page is under development.</h1>
+<H2>Attributions</H2>
+<p>
+	Shout-out to <a href="https://rosshill.ca/">rosshill.ca</a> for the cool portfolio timeline concept!
+</p>

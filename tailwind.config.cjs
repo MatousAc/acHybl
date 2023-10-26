@@ -12,8 +12,10 @@ const config = {
 	},
 	// force-loading styles
 	safelist: [
-		'border-l-4',
-		'border-r-4',
+		'border-l-2',
+		'border-r-2',
+		'lg:mr-20',
+		'lg:ml-20',
 		'pr-20',
 		'pl-20',
 		'items-end',

@@ -1,32 +1,66 @@
 <script lang="ts">
-	export let swapTo: 'l' | 'r';
+	import { Direction, type ProjectFlags } from 'ts/Project';
+
+	export let swapTo: Direction;
+	export let year: number;
+	export let flags: ProjectFlags;
 </script>
 
-<div class="swap h-40">
-	<svg
-		width="100%"
-		height="100%"
-		viewBox="0 0 1947 1141"
-		preserveAspectRatio="none"
-		fill="none"
-		xmlns="http://www.w3.org/2000/svg"
-	>
-		<path
-			class={swapTo}
-			d="M6.4703 6.5C6.4703 6.5 6.07578 39.9013 6.47018 59.8185C7.66141 119.977 24.8906 183.09 47.7313 238.5C74.9239 304.467 120.254 366.873 172.483 415.069C259.088 494.988 379.311 530.523 493.95 544.219C642.582 561.977 794.427 555.66 943.864 560.055C1114.61 565.077 1286.47 580.985 1452.11 624.367C1589.37 660.316 1722.73 723.846 1813.43 836.655C1860.76 895.526 1899.89 966.925 1922.34 1039.18C1940 1096 1940 1135 1940 1135"
-			stroke="var(--timeline)"
-			stroke-width="11"
-			stroke-linecap="square"
+<div class="swap relative h-40 lg:mx-20">
+	<div class="top">
+		<div
+			class="curve tl {swapTo === Direction.right && !flags.first ? 'border-b-2 border-l-2' : ''}"
 		/>
-	</svg>
+		<div
+			class="curve tr {swapTo === Direction.left && !flags.first ? 'border-b-2 border-r-2' : ''}"
+		/>
+	</div>
+	<div class="bottom">
+		<div class="curve bl {swapTo === Direction.left ? 'border-t-2 border-l-2' : ''}" />
+		<div class="curve br {swapTo === Direction.right ? 'border-t-2 border-r-2' : ''}" />
+	</div>
+	<div class="absolute top-0 left-0 w-full h-full flex justify-center items-center">
+		<div class="relative year py-1 px-4 border rounded-md">
+			{year}
+		</div>
+	</div>
 </div>
 
-<style>
-	div {
-		margin: -1px 0;
+<style lang="scss">
+	.curve {
+		height: 100%;
+		border-color: var(--timeline);
+		width: 50%;
 	}
 
-	path.l {
-		transform: scale(1, -1) translate(0, -100%);
+	.top,
+	.bottom {
+		display: flex;
+		height: 50%;
+
+		div.tl {
+			border-bottom-left-radius: 100%;
+		}
+		div.tr {
+			border-bottom-right-radius: 100%;
+		}
+		div.bl {
+			border-top-left-radius: 100%;
+		}
+		div.br {
+			border-top-right-radius: 100%;
+		}
+	}
+
+	.swap {
+		margin-bottom: -0.12rem;
+		.top {
+			margin-bottom: -0.12rem;
+		}
+	}
+
+	.year {
+		background-color: var(--nav);
+		border-color: var(--timeline);
 	}
 </style>

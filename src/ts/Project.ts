@@ -88,13 +88,19 @@ export const monthToNumberMap: { [key in Month]: number } = {
 	[Month.Dec]: 12
 };
 
+export type ProjectFlags = {
+	swap: boolean;
+	first: boolean;
+	last: boolean;
+};
+
 export default class Project {
 	title: string;
 	tags: string[];
 	year: number;
 	month: Month;
 	side: Direction;
-	timelineSwap: boolean;
+	flags: ProjectFlags;
 	// body: HTMLElement | null;
 
 	constructor(
@@ -103,7 +109,7 @@ export default class Project {
 		year: number,
 		month: Month,
 		side: Direction,
-		timelineSwap
+		flags: ProjectFlags
 	) {
 		//, body: HTMLElement) {
 		this.title = title;
@@ -111,7 +117,7 @@ export default class Project {
 		this.year = year;
 		this.month = month;
 		this.side = side;
-		this.timelineSwap = timelineSwap;
+		this.flags = flags;
 		// this.body = body;
 	}
 }
