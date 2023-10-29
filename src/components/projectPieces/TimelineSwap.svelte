@@ -1,12 +1,12 @@
 <script lang="ts">
-	import { Direction, type ProjectFlags } from 'ts/Project';
+	import { Direction, type ProjectFlags } from 'ts/ProjectClasses/ProjectTypes';
 
 	export let swapTo: Direction;
 	export let year: number;
 	export let flags: ProjectFlags;
 </script>
 
-<div class="swap relative h-40 lg:mx-20">
+<div class="swap relative h-40 lg:mx-40">
 	<div class="top">
 		<div
 			class="curve tl {swapTo === Direction.right && !flags.first ? 'border-b-2 border-l-2' : ''}"

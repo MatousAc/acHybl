@@ -24,6 +24,7 @@ const config = {
 			// (`my-directory/x` resolves to `path/to/my-directory/x`)
 			comp: './src/components',
 			ts: './src/ts',
+			css: './src/css',
 			tp: './src/components/testimonyPieces',
 			pp: './src/components/projectPieces'
 		}

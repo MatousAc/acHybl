@@ -12,10 +12,13 @@ const config = {
 	},
 	// force-loading styles
 	safelist: [
+		// { pattern: /border-(l|r)-2/ },
+		// { pattern: /(lg:m|p|m)(l|r)-20/ },
+		// { pattern: /items-(start|end)/ },
 		'border-l-2',
 		'border-r-2',
-		'lg:mr-20',
-		'lg:ml-20',
+		'lg:mr-40',
+		'lg:ml-40',
 		'pr-20',
 		'pl-20',
 		'items-end',

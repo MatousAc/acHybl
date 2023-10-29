@@ -1,15 +1,17 @@
 <script lang="ts">
 	export let tag: string;
+
+	const cleanTag = (str: string): string => {
+		str = str.toLowerCase();
+		str = str.replaceAll('.', 'dot');
+		str = str.replaceAll('+', 'plus');
+		return str;
+	};
 </script>
 
-<div class="tag h-7 ml-2 pr-2 flex justify-between items-center border rounded-full">
-	<div class="icon flex absolute w-max border-r-2 {tag.toLowerCase()}">
-		<img
-			class="ml-2 mr-1 w-4"
-			src="/portfolio/tags/{tag.toLowerCase()}.svg"
-			alt={tag}
-			title={tag}
-		/>
+<div class="tag h-7 pr-2 flex justify-between items-center border rounded-full">
+	<div class="icon flex absolute w-max border-r-2 {cleanTag(tag)}">
+		<img class="ml-2 mr-1 w-4" src="/portfolio/tags/{cleanTag(tag)}.svg" alt={tag} title={tag} />
 	</div>
 	<span class="ml-9">{tag}</span>
 </div>
@@ -56,7 +58,7 @@
 	div.icon.nestjs {
 		background-color: #e0234e;
 	}
-	div.icon.node {
+	div.icon.nodedotjs {
 		background-color: #339933;
 	}
 	div.icon.tensorflow {
@@ -77,7 +79,7 @@
 	div.icon.xquery {
 		background-color: #fcbc08;
 	}
-	div.icon.cpp {
+	div.icon.cplusplus {
 		background-color: #6a9dd3;
 	}
 	div.icon.r {
@@ -88,5 +90,17 @@
 	}
 	div.icon.azure {
 		background-color: #175ba1;
+	}
+	div.icon.github {
+		background-color: #080808;
+	}
+	div.icon.ai {
+		background-color: #c9d1fe;
+	}
+	div.icon.supabase {
+		background-color: #000;
+	}
+	div.icon.resume {
+		background-color: #141217;
 	}
 </style>

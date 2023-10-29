@@ -1,9 +1,10 @@
 <script lang="ts">
 	import '../app.postcss';
-	import '../css/colors.css';
-	import Bar from '../components/Bar.svelte';
-	import type { SiteTheme } from '../ts/types';
-	import { theme } from '../ts/stores';
+	import 'css/colors.css';
+	import 'css/vars.css';
+	import Bar from 'comp/Bar.svelte';
+	import type { SiteTheme } from 'ts/types';
+	import { theme } from 'ts/stores';
 	import GoogleAnalytics from 'comp/GoogleAnalytics.svelte';
 	import BrowserTheme from 'comp/BrowserTheme.svelte';
 	import Fonts from 'comp/Fonts.svelte';
@@ -19,7 +20,7 @@
 <Favicon />
 <BrowserTheme />
 
-<main class="skeleton flex flex-col {selectedTheme}">
+<main class=" skeleton flex flex-col {selectedTheme}">
 	<Bar />
 	<slot />
 	<Footer />
@@ -32,9 +33,5 @@
 		color: var(--text);
 
 		min-height: 100vh;
-	}
-
-	.content {
-		max-width: 1000px;
 	}
 </style>

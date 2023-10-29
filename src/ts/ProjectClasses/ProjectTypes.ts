@@ -7,6 +7,12 @@ export const getNextSide = (side: Direction): Direction => {
 	return side === Direction.left ? Direction.right : Direction.left;
 };
 
+export enum ProjectCategory {
+	academic = 'academic',
+	work = 'work',
+	other = 'other'
+}
+
 export enum Month {
 	Jan = 'Jan',
 	Feb = 'Feb',
@@ -88,36 +94,22 @@ export const monthToNumberMap: { [key in Month]: number } = {
 	[Month.Dec]: 12
 };
 
+export type ProjectJson = {
+	category: ProjectCategory;
+	title: string;
+	description: string;
+	year: number;
+	month: string | number | Month;
+	tags: string[];
+	bodyType: 'image' | 'unitplayground' | 'githubCard';
+	website?: string;
+	github?: string;
+	imgSrc?: string;
+	library?: string;
+};
+
 export type ProjectFlags = {
 	swap: boolean;
 	first: boolean;
 	last: boolean;
 };
-
-export default class Project {
-	title: string;
-	tags: string[];
-	year: number;
-	month: Month;
-	side: Direction;
-	flags: ProjectFlags;
-	// body: HTMLElement | null;
-
-	constructor(
-		title: string,
-		tags: string[],
-		year: number,
-		month: Month,
-		side: Direction,
-		flags: ProjectFlags
-	) {
-		//, body: HTMLElement) {
-		this.title = title;
-		this.tags = tags;
-		this.year = year;
-		this.month = month;
-		this.side = side;
-		this.flags = flags;
-		// this.body = body;
-	}
-}

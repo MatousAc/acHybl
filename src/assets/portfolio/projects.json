@@ -1,0 +1,57 @@
+[
+	{
+		"category": "academic",
+		"title": "LLaMA 2 Training",
+		"description": "Trained LLaMA on custom data for question and answer generation.",
+		"year": 2023,
+		"month": "Nov",
+		"tags": ["Python", "AI"],
+		"bodyType": "image",
+		"website": "pbe.achybl.com",
+		"github": "/MatousAc/qag",
+		"imgSrc": "LLaMA2ConceptMap.png"
+	},
+	{
+		"category": "work",
+		"title": "Orbify",
+		"description": "Translates Integrify JSON forms into the XForms source code used in Orbeon Form Builder 2021 PE. There is also a branch available for the old 2019 PE version of Orbeon.",
+		"year": 2022,
+		"month": "June",
+		"tags": ["Python", "xQuery"],
+		"bodyType": "githubCard",
+		"github": "/MatousAc/orbify",
+		"imgSrc": "LLaMA2ConceptMap.png"
+	},
+	{
+		"category": "academic",
+		"title": "Cartesian Problems",
+		"description": "A Java application for visualizing and comparing algorithms on a Cartesian Plane. I visualize how Graham Scan and Jarvis March construct a convex hull. I also compare a brute force method and a 2-factor approximation for minimum vertex cover.",
+		"year": 2022,
+		"month": "Dec",
+		"tags": ["Java"],
+		"bodyType": "image",
+		"github": "",
+		"imgSrc": "cartesianProblems.gif"
+	},
+	{
+		"category": "academic",
+		"title": "UnitPlayground",
+		"description": "An interactive interface for experimentation with units and their relationships.",
+		"year": 2023,
+		"month": "April",
+		"tags": ["Svelte", "Node.js", "Supabase"],
+		"bodyType": "unitplayground",
+		"github": ""
+	},
+	{
+		"category": "academic",
+		"title": "Go Fish Extension",
+		"description": "A firefox extension that allows up to four users to play against each other or against various AI. The two available AI players are based on logical rules and monte-carlo search trees respectively.",
+		"year": 2021,
+		"month": "Dec",
+		"tags": ["Python", "JavaScript", "CSS"],
+		"bodyType": "image",
+		"github": "",
+		"imgSrc": "goFishExtension.gif"
+	}
+]

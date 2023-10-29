@@ -13,7 +13,6 @@
 	const links = [
 		{ title: 'home', href: '/', target: '_self' },
 		{ title: 'resume', href: 'resume.pdf', target: '_blank' },
-		{ title: 'research', href: 'AzureAutoML.pdf', target: '_blank' },
 		{ title: 'testimony', href: '/testimony', target: '_self' },
 		{ title: 'info', href: '/info', target: '_self' },
 		{ title: 'PBE', href: 'https://pbe.achybl.com/', target: '_self' }
@@ -55,7 +54,9 @@
 	>
 		{#each links as link}
 			<li>
-				<a class="py-2 px-4 md:p-6 block" href={link.href} target={link.target}>{link.title}</a>
+				<a class="py-2 px-4 md:py-6 md:px-4 block" href={link.href} target={link.target}
+					>{link.title}</a
+				>
 			</li>
 		{/each}
 	</ul>
