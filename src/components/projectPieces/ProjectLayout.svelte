@@ -39,6 +39,8 @@
 				<p class="pt-3">{project.description}</p>
 			{/if}
 		</div>
+
+		<!-- we let our injected dependency take care of the body -->
 		<div class="body border-b" bind:this={body} />
 		{#if project.website || project.github || project.timeRange}
 			<div
