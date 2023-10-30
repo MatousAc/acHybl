@@ -2,56 +2,109 @@
 	{
 		"category": "academic",
 		"title": "LLaMA 2 Training",
-		"description": "Trained LLaMA on custom data for question and answer generation.",
+		"description": "Training LLaMA on custom data for question and answer generation.",
+		"website": "pbe.achybl.com",
+		"timeRange": "Aug. 2023 - Present",
 		"year": 2023,
 		"month": "Nov",
 		"tags": ["Python", "HuggingFace", "AI"],
 		"bodyType": "image",
-		"website": "pbe.achybl.com",
-		"github": "/MatousAc/qag",
 		"imgSrc": "LLaMA2ConceptMap.png"
+	},
+	{
+		"category": "work",
+		"title": "DevOps Engineering Intern - FTD Solutions",
+		"description": "Fully redesigned FTD's internal database. Created workflows for FTD and its clients in various platforms.",
+		"year": 2023,
+		"month": "June",
+		"timeRange": "May 2022 - Present",
+		"tags": ["SQL", "xQuery", "Tableau"],
+		"bodyType": "description"
 	},
 	{
 		"category": "work",
 		"title": "Orbify",
 		"description": "Translates Integrify JSON forms into the XForms source code used in Orbeon Form Builder 2021 PE. There is also a branch available for the old 2019 PE version of Orbeon.",
+		"github": "MatousAc/orbify",
 		"year": 2022,
 		"month": "June",
 		"tags": ["Python", "xQuery"],
-		"bodyType": "githubCard",
-		"github": "/MatousAc/orbify",
-		"imgSrc": "LLaMA2ConceptMap.png"
+		"bodyType": "description"
 	},
 	{
 		"category": "academic",
 		"title": "Cartesian Problems",
 		"description": "A Java application for visualizing and comparing algorithms on a Cartesian Plane. I visualize how Graham Scan and Jarvis March construct a convex hull. I also compare a brute force method and a 2-factor approximation for minimum vertex cover.",
+		"github": "MatousAc/cartesianProblems",
 		"year": 2022,
-		"month": "Dec",
+		"month": "Oct",
 		"tags": ["Java"],
 		"bodyType": "image",
-		"github": "",
 		"imgSrc": "cartesianProblems.gif"
+	},
+	{
+		"category": "academic",
+		"title": "julipp",
+		"description": "An interpreter for a subset of the Julia language written in C++",
+		"github": "MatousAc/julipp",
+		"year": 2022,
+		"month": "April",
+		"tags": ["C++", "Julia"],
+		"bodyType": "description"
 	},
 	{
 		"category": "academic",
 		"title": "UnitPlayground",
 		"description": "An interactive interface for experimentation with units and their relationships.",
+		"website": "unitplayground.com",
+		"github": "MatousAc/unitPlayground",
 		"year": 2023,
 		"month": "April",
 		"tags": ["Svelte", "Node.js", "Supabase"],
-		"bodyType": "unitplayground",
-		"github": ""
+		"bodyType": "unitplayground"
 	},
 	{
 		"category": "academic",
 		"title": "Go Fish Extension",
 		"description": "A firefox extension that allows up to four users to play against each other or against various AI. The two available AI players are based on logical rules and monte-carlo search trees respectively.",
+		"github": "AlexOConnorHub/go-fish-firefox",
 		"year": 2021,
 		"month": "Dec",
 		"tags": ["Python", "JavaScript", "CSS"],
 		"bodyType": "image",
-		"github": "",
 		"imgSrc": "goFishExtension.gif"
+	},
+	{
+		"category": "academic",
+		"title": "Azure AutoML for Student Grades",
+		"description": "This study organizes some of this data and employs machine learning to analyze the claim that class attendance and sitting at the front of a classroom improve student grades. We perform a correlation analysis in Azure’s Machine Learning workspace by training regression models.",
+		"website": "achybl.com/AzureAutoML.pdf",
+		"year": 2022,
+		"month": "Nov",
+		"tags": ["Azure", "SQL", "Tableau"],
+		"bodyType": "image",
+		"imgSrc": "azurePaper.png"
+	},
+	{
+		"category": "academic",
+		"title": "Interactive Earthquake Visualization",
+		"description": "A visualization and presentation of seismic data using Tableau. The data was obtained on Kaggle and cleaned with OpenRefine and Tableau Prep",
+		"website": "matousac.github.io",
+		"year": 2022,
+		"month": "March",
+		"tags": ["OpenRefine", "Tableau"],
+		"bodyType": "image",
+		"imgSrc": "earthquakes.png"
+	},
+	{
+		"category": "work",
+		"title": "Buried Treasure",
+		"description": "A Drupal 8 resource website for vacation bible school programs.",
+		"website": "buriedtreasure.fun",
+		"year": 2020,
+		"month": "July",
+		"tags": ["Drupal", "PHP", "CSS"],
+		"bodyType": "image",
+		"imgSrc": "buriedTreasure.png"
 	}
 ]

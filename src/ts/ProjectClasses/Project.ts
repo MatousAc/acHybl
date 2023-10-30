@@ -13,9 +13,10 @@ export default abstract class Project {
 	description: string;
 	website?: string;
 	github?: string;
-	tags: string[];
 	year: number;
 	month: Month;
+	timeRange?: string;
+	tags: string[];
 	side: Direction;
 	flags: ProjectFlags;
 
@@ -25,13 +26,14 @@ export default abstract class Project {
 		this.description = json.description;
 		if (json.website) this.website = json.website;
 		if (json.github) this.github = json.github;
-		this.tags = json.tags;
 		this.year = json.year;
 		if (isMonth(json.month)) {
 			this.month = json.month;
 		} else {
 			this.month = Month.Jan;
 		}
+		if (json.timeRange) this.timeRange = json.timeRange;
+		this.tags = json.tags;
 		this.side = side;
 		this.flags = flags;
 	}

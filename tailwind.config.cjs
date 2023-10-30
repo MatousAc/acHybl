@@ -2,7 +2,13 @@ const config = {
 	content: ['./src/**/*.{html,js,svelte,ts}'],
 
 	theme: {
-		extend: {}
+		extend: {
+			screens: {
+				wideMobile: {
+					raw: `only screen and (max-height: 480px) and (max-width: 960px) and (orientation: landscape)`
+				}
+			}
+		}
 	},
 
 	plugins: [],

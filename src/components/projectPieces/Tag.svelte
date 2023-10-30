@@ -106,4 +106,19 @@
 	div.icon.huggingface {
 		background-color: #ac474a;
 	}
+	div.icon.sql {
+		background-color: #0876c8;
+	}
+	div.icon.php {
+		background-color: #8892bf;
+	}
+	div.icon.tableau {
+		background-color: #fff;
+	}
+	div.icon.openrefine {
+		background-color: #000;
+	}
+	div.icon.julia {
+		background-color: #fff;
+	}
 </style>

@@ -98,12 +98,13 @@ export type ProjectJson = {
 	category: ProjectCategory;
 	title: string;
 	description: string;
-	year: number;
-	month: string | number | Month;
-	tags: string[];
-	bodyType: 'image' | 'unitplayground' | 'githubCard';
 	website?: string;
 	github?: string;
+	year: number;
+	month: string | number | Month;
+	timeRange?: string;
+	tags: string[];
+	bodyType: 'image' | 'unitplayground' | 'githubCard' | 'description';
 	imgSrc?: string;
 	library?: string;
 };

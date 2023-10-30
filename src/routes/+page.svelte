@@ -5,6 +5,7 @@
 	import ProjectLayout from 'pp/ProjectLayout.svelte';
 	import ImageProject from 'ts/ProjectClasses/ImageProject';
 	import GithubCardProject from 'ts/ProjectClasses/GithubCardProject';
+	import DescriptionProject from 'ts/ProjectClasses/DescriptionProject';
 	import UPProject from 'ts/ProjectClasses/UPProject';
 	import type Project from 'ts/ProjectClasses/Project';
 	import {
@@ -16,6 +17,7 @@
 		getNextSide,
 		type ProjectJson
 	} from 'ts/ProjectClasses/ProjectTypes';
+	import CategoryLabel from 'pp/CategoryLabel.svelte';
 
 	let projectJson: ProjectJson[];
 
@@ -69,6 +71,9 @@
 				case 'githubCard':
 					projects.push(new GithubCardProject(p, curSide, { ...flags }));
 					break;
+				case 'description':
+					projects.push(new DescriptionProject(p, curSide, { ...flags }));
+					break;
 				default:
 					projects.push(new ImageProject(p, curSide, { ...flags }));
 					break;
@@ -91,7 +96,7 @@
 	<div class="md:relative sidebar lg:w-1/3 lg:border-r">
 		<div class="h-screen p-10 flex flex-col justify-center items-center md:sticky md:top-20">
 			<img
-				class="rounded-full w-5/6 landscape:w-1/4 md:landscape:w-5/6 max-w-md"
+				class="rounded-full w-5/6 wideMobile:w-1/4 max-w-md"
 				src="/portraitSquareBlurred.jpg"
 				alt="Me"
 			/>
@@ -105,6 +110,11 @@
 	<div class="timeline-of-projects flex justify-center px-4 lg:px-10 lg:w-2/3 py-10">
 		<div class="max-w-xl lg:max-w-3xl w-full">
 			<H3>Explore my projects at work and school in the timeline below!</H3>
+			<div class="flex flex-wrap gap-x-6 gap-y-4 my-4">
+				{#each ['work', 'academic', 'other'] as category}
+					<CategoryLabel {category} />
+				{/each}
+			</div>
 			{#await loadProjects()}
 				<div class="flex justify-center mt-40">
 					<img src="/loading.gif" alt="loading" />
@@ -118,7 +128,7 @@
 	</div>
 </div>
 
-<style>
+<style lang="scss">
 	.intro {
 		grid-area: 'intro';
 	}
