@@ -6,6 +6,9 @@ const config = {
 			screens: {
 				wideMobile: {
 					raw: `only screen and (max-height: 480px) and (max-width: 960px) and (orientation: landscape)`
+				},
+				tiny: {
+					raw: `only screen and (min-width: 320px)`
 				}
 			}
 		}

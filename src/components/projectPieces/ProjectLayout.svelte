@@ -43,12 +43,10 @@
 		<!-- we let our injected dependency take care of the body -->
 		<div class="body border-b" bind:this={body} />
 		{#if project.website || project.github || project.timeRange}
-			<div
-				class="footer text-xs py-2 px-5 flex flex-col items-start gap-y-2 md:flex-row md:gap-y-0 md:justify-end md:items-center"
-			>
+			<div class="footer text-xs py-2 px-5 flex flex-wrap gap-y-0 tiny:justify-end items-center">
 				{#if project.website}
 					<a
-						class="website font-bold md:mr-auto"
+						class="website font-bold mr-auto"
 						href="https://{project.website}"
 						target="_blank"
 						rel="noreferrer">{project.website}</a
@@ -60,7 +58,7 @@
 					</p>
 				{:else if project.github}
 					<a
-						class="github font-bold rounded-full"
+						class="github font-bold rounded-full ml-auto"
 						href="https://github.com/{project.github}"
 						target="_blank"
 						rel="noreferrer">Github</a

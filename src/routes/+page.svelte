@@ -93,8 +93,11 @@
 </svelte:head>
 
 <div class="lg:flex justify-between min-h-full">
+	<!-- FIXME: re-do the sidebar so it makes more sense and more responsive -->
 	<div class="md:relative sidebar lg:w-1/3 lg:border-r">
-		<div class="h-screen p-10 flex flex-col justify-center items-center md:sticky md:top-20">
+		<div
+			class="h-screen p-10 pb-0 flex flex-col justify-center items-center md:sticky md:top-20 md:pt-0"
+		>
 			<img
 				class="rounded-full w-5/6 wideMobile:w-1/4 max-w-md"
 				src="/portraitSquareBlurred.jpg"
@@ -140,5 +143,8 @@
 	.sidebar {
 		border-color: var(--timeline);
 		background-color: var(--off-background);
+		> div {
+			margin-top: -2.5rem;
+		}
 	}
 </style>
