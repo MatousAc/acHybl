@@ -83,7 +83,6 @@
 
 		projects[0].flags.first = true;
 		projects[projects.length - 1].flags.last = true;
-		console.log('Projects:', projects);
 		return projects;
 	};
 </script>

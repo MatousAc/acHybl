@@ -5,7 +5,6 @@ import UnitPlayground from 'unitplayground';
 export default class UPProject extends Project {
 	constructor(json: ProjectJson, side: Direction, flags: ProjectFlags) {
 		super(json, side, flags);
-		console.log('UPProject');
 	}
 
 	getBody(): HTMLElement {
