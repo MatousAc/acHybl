@@ -10,7 +10,7 @@
 </script>
 
 <div class="tag h-7 pr-2 flex justify-between items-center border rounded-full">
-	<div class="icon flex absolute w-max border-r-2 {cleanTag(tag)}">
+	<div class="icon flex absolute w-max border-r {cleanTag(tag)}">
 		<img class="ml-2 mr-1 w-4" src="/portfolio/tags/{cleanTag(tag)}.svg" alt={tag} title={tag} />
 	</div>
 	<span class="ml-9">{tag}</span>
@@ -19,8 +19,8 @@
 <style lang="scss">
 	.tag {
 		font-size: 0.9rem;
-		border-color: var(--nav-border);
-		background-color: var(--nav);
+		border-color: var(--timeline);
+		background-color: var(--off-background);
 		position: relative;
 		overflow: hidden;
 
@@ -29,7 +29,7 @@
 		}
 
 		div.icon {
-			border-color: var(--nav-border);
+			border-color: var(--timeline);
 		}
 		span {
 			display: inline-flex;
@@ -102,5 +102,8 @@
 	}
 	div.icon.resume {
 		background-color: #141217;
+	}
+	div.icon.huggingface {
+		background-color: #ac474a;
 	}
 </style>

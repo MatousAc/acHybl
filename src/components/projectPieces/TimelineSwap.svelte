@@ -60,7 +60,7 @@
 	}
 
 	.year {
-		background-color: var(--nav);
+		background-color: var(--off-background);
 		border-color: var(--timeline);
 	}
 </style>

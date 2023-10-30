@@ -30,7 +30,6 @@
 			/>
 		</svg>
 	</div>
-	<!-- <span class="tick border-top-2" /> -->
 </div>
 
 <style>

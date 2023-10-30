@@ -1,6 +1,5 @@
 <script lang="ts">
-	import H2 from 'comp/H2.svelte';
-	import NextPage from 'tp/NextPage.svelte';
+	import H2 from 'comp/headers/H2.svelte';
 	import P from 'tp/P.svelte';
 	import Break from 'tp/Break.svelte';
 </script>

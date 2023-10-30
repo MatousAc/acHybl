@@ -5,7 +5,7 @@
 		"description": "Trained LLaMA on custom data for question and answer generation.",
 		"year": 2023,
 		"month": "Nov",
-		"tags": ["Python", "AI"],
+		"tags": ["Python", "HuggingFace", "AI"],
 		"bodyType": "image",
 		"website": "pbe.achybl.com",
 		"github": "/MatousAc/qag",

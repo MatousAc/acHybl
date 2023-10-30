@@ -1,90 +1,110 @@
 .skeleton.light {
+	/* base colors */
 	--background: #fbfdff;
+	--off-background: #f0f4f7;
 	--text: #182d3e;
-	--center-top: #c6e8f5;
 	--center-bottom: #449ecf;
 	--nav: #264863;
-	--accent: #368f84;
+	/* accent colors */
+	--accent-base: #368f84;
+	--accent-red: #b96161;
+	--accent-purple: #7e71b3;
+	--accent-green: #377d4a;
+	/* text */
+	--h1: #213c52;
 	--menu: var(--background);
-	--mobile-link-background: var(--nav);
 	--logo-primary: var(--background);
-	--logo-secondary: var(--center-top);
+	--logo-secondary: #c6e8f5;
+	/* nav */
+	--nav-text: var(--background);
 	--nav-underline: var(--background);
 	--nav-underline-distance: 0;
 	--nav-border-bottom-width: 0;
 	--nav-border: var(--background);
-	--nav-text: var(--background);
-	--theme-background: var(--background);
-	--theme-text: var(--text);
-	--h1: #213c52;
-	--timeline: var(--text);
+	/* timeline */
+	--timeline: var(--nav);
 }
 .skeleton.dark {
+	/* base colors */
 	--background: #0c0910;
+	--off-background: #17121f;
 	--text: white;
-	--center-top: #1a1b25;
 	--center-bottom: #7f7979;
-	--nav: #17121f;
-	--accent: #c9d1fe;
+	--nav: var(--off-background);
+	/* accent colors */
+	--accent-base: #c9d1fe;
+	--accent-red: #ec7d7d;
+	--accent-purple: #a292e7;
+	--accent-green: #4eb169;
+	/* text */
+	--h1: var(--accent-base);
 	--menu: var(--text);
-	--mobile-link-background: var(--nav);
 	--logo-primary: var(--text);
-	--logo-secondary: var(--accent);
+	--logo-secondary: var(--accent-base);
+	/* nav */
+	--nav-text: var(--text);
 	--nav-underline-distance: -0.13rem;
 	--nav-underline: #fffceb;
 	--nav-border-bottom-width: 2px;
 	--nav-border: #423b4c;
-	--nav-text: var(--text);
-	--theme-background: var(--background);
-	--theme-text: var(--text);
-	--h1: var(--accent);
-	--timeline: var(--text);
+	/* timeline */
+	--timeline: var(--nav-border);
 }
 
 @media (prefers-color-scheme: light) {
 	.skeleton {
+		/* base colors */
 		--background: #fbfdff;
+		--off-background: #f0f4f7;
 		--text: #182d3e;
-		--center-top: #c6e8f5;
 		--center-bottom: #449ecf;
 		--nav: #264863;
-		--accent: #368f84;
+		/* accent colors */
+		--accent-base: #368f84;
+		--accent-red: #b96161;
+		--accent-purple: #7e71b3;
+		--accent-green: #377d4a;
+		/* text */
+		--h1: #213c52;
 		--menu: var(--background);
-		--mobile-link-background: var(--nav);
 		--logo-primary: var(--background);
-		--logo-secondary: var(--center-top);
+		--logo-secondary: #c6e8f5;
+		/* nav */
+		--nav-text: var(--background);
 		--nav-underline: var(--background);
 		--nav-underline-distance: 0;
 		--nav-border-bottom-width: 0;
 		--nav-border: var(--background);
-		--nav-text: var(--background);
-		--theme-background: var(--background);
-		--theme-text: var(--text);
-		--h1: #213c52;
-		--timeline: var(--text);
+		/* timeline */
+		--timeline: var(--nav);
 	}
 }
 
 @media (prefers-color-scheme: dark) {
 	.skeleton {
+		/* base colors */
 		--background: #0c0910;
+		--off-background: #17121f;
 		--text: white;
-		--center-top: #1a1b25;
 		--center-bottom: #7f7979;
-		--nav: #17121f;
-		--accent: #c9d1fe;
+		--nav: var(--off-background);
+		/* accent colors */
+		--accent-base: #c9d1fe;
+		--accent-red: #ec7d7d;
+		--accent-purple: #a292e7;
+		--accent-green: #4eb169;
+		/* text */
+		--h1: var(--accent-base);
 		--menu: var(--text);
-		--mobile-link-background: var(--nav);
 		--logo-primary: var(--text);
-		--logo-secondary: var(--accent);
+		--logo-secondary: var(--accent-base);
+		/* nav */
+		--nav-text: var(--text);
 		--nav-underline-distance: -0.13rem;
 		--nav-underline: #fffceb;
 		--nav-border-bottom-width: 2px;
 		--nav-border: #423b4c;
-		--nav-text: var(--text);
-		--theme-background: var(--background);
-		--theme-text: var(--text);
-		--h1: var(--accent);
-		--timeline: var(--text);
+		/* timeline */
+		--timeline: var(--nav-border);
 	}
 }

@@ -41,7 +41,7 @@
 	class="w-full z-20 flex items-center px-4 sticky justify-between{showMobileMenu ? ' mobile' : ''}"
 >
 	<!-- logo -->
-	<a class="logo p-2 md:p-0" href="/testimony">
+	<a class="logo p-2 md:p-0" href="/">
 		<Logo class="w-16 md:w-20" />
 	</a>
 
@@ -49,7 +49,7 @@
 	<!-- svelte-ignore a11y-click-events-have-key-events -->
 	<ul
 		bind:this={ul}
-		class="links md:flex md:px-5 {ulMouseDirection}"
+		class="links font-light md:flex md:px-5 {ulMouseDirection}"
 		on:click={() => (showMobileMenu = false)}
 	>
 		{#each links as link}
@@ -207,11 +207,10 @@
 		display: none;
 		justify-content: space-between;
 		margin: 0;
-		font-weight: 300;
 	}
 
 	.mobile .links {
-		background-color: var(--mobile-link-background);
+		background-color: var(--nav);
 		position: fixed;
 		display: block;
 		top: 3rem;

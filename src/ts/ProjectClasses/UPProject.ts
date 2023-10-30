@@ -12,7 +12,6 @@ export default class UPProject extends Project {
 		let base: HTMLDivElement = document.createElement('div');
 		base.style.width = '100%';
 		base.style.height = '18rem';
-		console.log(base);
 		new UnitPlayground({
 			target: base
 		});

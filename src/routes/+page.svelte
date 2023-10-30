@@ -1,6 +1,6 @@
 <script lang="ts">
-	import H1 from 'comp/H1.svelte';
-	import H2 from 'comp/H2.svelte';
+	import H1 from 'comp/headers/H1.svelte';
+	import H3 from 'comp/headers/H3.svelte';
 	import Tag from 'pp/Tag.svelte';
 	import ProjectLayout from 'pp/ProjectLayout.svelte';
 	import ImageProject from 'ts/ProjectClasses/ImageProject';
@@ -90,17 +90,21 @@
 <div class="lg:flex justify-between min-h-full">
 	<div class="md:relative sidebar lg:w-1/3 lg:border-r">
 		<div class="h-screen p-10 flex flex-col justify-center items-center md:sticky md:top-20">
-			<img class="rounded-full w-5/6 max-w-md" src="/portraitSquareBlurred.jpg" alt="Me" />
+			<img
+				class="rounded-full w-5/6 landscape:w-1/4 md:landscape:w-5/6 max-w-md"
+				src="/portraitSquareBlurred.jpg"
+				alt="Me"
+			/>
 			<H1>Ac Hýbl</H1>
-			<div class="flex flex-wrap gap-4">
+			<div class="flex flex-wrap justify-center gap-y-2 gap-x-4">
 				<a class="rounded-full" href="/resume.pdf"><Tag tag="Resume" /></a>
 				<a class="rounded-full" href="https://github.com/MatousAc"><Tag tag="Github" /></a>
 			</div>
 		</div>
 	</div>
-	<div class="flex justify-center px-4 lg:px-10 lg:w-2/3 py-10">
+	<div class="timeline-of-projects flex justify-center px-4 lg:px-10 lg:w-2/3 py-10">
 		<div class="max-w-xl lg:max-w-3xl w-full">
-			<H2>Portfolio</H2>
+			<H3>Explore my projects at work and school in the timeline below!</H3>
 			{#await loadProjects()}
 				<div class="flex justify-center mt-40">
 					<img src="/loading.gif" alt="loading" />
@@ -119,8 +123,12 @@
 		grid-area: 'intro';
 	}
 
+	.timeline-of-projects {
+		background-color: var(--background);
+	}
+
 	.sidebar {
-		border-color: var(--h1);
-		background-color: var(--nav-border);
+		border-color: var(--timeline);
+		background-color: var(--off-background);
 	}
 </style>

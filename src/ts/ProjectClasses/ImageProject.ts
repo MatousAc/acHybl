@@ -6,14 +6,14 @@ export default class ImageProject extends Project {
 
 	constructor(json: ProjectJson, side: Direction, flags: ProjectFlags) {
 		super(json, side, flags);
-		this.imgSrc = json.imgSrc ? json.imgSrc : '';
-		console.log('ImageProject:', json.imgSrc);
+		this.imgSrc = json.imgSrc ? '/portfolio/images/' + json.imgSrc : '';
 	}
 
 	getBody(): HTMLElement {
 		let wrapper: HTMLDivElement = document.createElement('div');
 		let img: HTMLImageElement = document.createElement('img');
-		img.src = '/portfolio/images/' + this.imgSrc;
+		img.src = this.imgSrc;
+		img.style.width = '100%';
 		wrapper.appendChild(img);
 		return wrapper;
 	}

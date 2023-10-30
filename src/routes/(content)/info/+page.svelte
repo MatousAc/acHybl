@@ -1,5 +1,5 @@
 <script>
-	import H2 from 'comp/H2.svelte';
+	import H2 from 'comp/headers/H2.svelte';
 </script>
 
 <svelte:head>
