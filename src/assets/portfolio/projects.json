@@ -77,7 +77,7 @@
 	{
 		"category": "academic",
 		"title": "Azure AutoML for Student Grades",
-		"description": "This study organizes some of this data and employs machine learning to analyze the claim that class attendance and sitting at the front of a classroom improve student grades. We perform a correlation analysis in Azure’s Machine Learning workspace by training regression models.",
+		"description": "This study organizes some of this data and employs machine learning to analyze the claim that class attendance and sitting at the front of a classroom improve student grades. We perform a correlation analysis in Azure's Machine Learning workspace by training regression models.",
 		"website": "achybl.com/AzureAutoML.pdf",
 		"year": 2022,
 		"month": "Nov",

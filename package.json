@@ -28,7 +28,6 @@
 		"svelte-preprocess": "^4.10.7",
 		"tailwindcss": "^3.1.5",
 		"tslib": "^2.4.1",
-		"typescript": "^4.9.3",
 		"vite": "^4.0.5"
 	},
 	"type": "module",
@@ -37,7 +36,8 @@
 		"github-calendar": "^2.3.1",
 		"sass": "^1.57.1",
 		"svelte-fa": "^3.0.3",
-		"unitplayground": "^0.1.0",
+		"typescript": "^4.9.5",
+		"unitplayground": "^0.2.3",
 		"universal-cookie": "^4.0.4"
 	}
 }
