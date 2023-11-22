@@ -34,7 +34,7 @@
 		// process the loaded data
 		// convert all months to our Month type
 		projectJson = projectJson.map((p) => {
-			// set to January by default
+			// set to January bgy default
 			p.month = toMonth(p.month) || Month.Jan;
 			return p;
 		});
