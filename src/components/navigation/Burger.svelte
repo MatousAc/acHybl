@@ -49,6 +49,7 @@
 	.middle-line {
 		margin: auto;
 		transition-delay: 0.2s;
+		transition: all 0.25s ease;
 	}
 
 	.burger.active:before,
@@ -63,7 +64,6 @@
 
 	.burger.active .middle-line {
 		transition-delay: 0s;
-		animation: 0.25s lateFade;
 		opacity: 0;
 	}
 </style>
