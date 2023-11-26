@@ -30,3 +30,6 @@ function cookieStore<T>(key: string, defaultValue: T, maxAge = yearInSeconds): W
 }
 
 export const theme = cookieStore<SiteTheme>('theme', 'system');
+
+// navigation bar
+export const mobileMenuOpen = writable(false);

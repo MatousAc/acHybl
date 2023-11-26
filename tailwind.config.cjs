@@ -24,6 +24,7 @@ const config = {
 		// { pattern: /border-(l|r)-2/ },
 		// { pattern: /(lg:m|p|m)(l|r)-20/ },
 		// { pattern: /items-(start|end)/ },
+		'hidden',
 		'border-l-2',
 		'border-r-2',
 		'lg:mr-40',

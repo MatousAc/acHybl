@@ -2,7 +2,7 @@
 	import '../app.postcss';
 	import 'css/colors.css';
 	import 'css/vars.css';
-	import Bar from 'comp/Bar.svelte';
+	import Bar from 'comp/navigation/Bar.svelte';
 	import type { SiteTheme } from 'ts/types';
 	import { theme } from 'ts/stores';
 	import GoogleAnalytics from 'comp/GoogleAnalytics.svelte';
