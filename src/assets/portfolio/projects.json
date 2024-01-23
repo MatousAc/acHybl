@@ -5,11 +5,11 @@
 		"description": "Training LLaMA on custom data for question and answer generation.",
 		"website": "pbe.achybl.com",
 		"timeRange": "Aug. 2023 - Present",
-		"year": 2023,
+		"year": 2024,
 		"month": "Nov",
 		"tags": ["Python", "HuggingFace", "AI"],
 		"bodyType": "image",
-		"imgSrc": "LLaMA2ConceptMap.png"
+		"imgSrc": "qagMethods.png"
 	},
 	{
 		"category": "work",
@@ -78,12 +78,13 @@
 		"category": "academic",
 		"title": "Azure AutoML for Student Grades",
 		"description": "This study organizes some of this data and employs machine learning to analyze the claim that class attendance and sitting at the front of a classroom improve student grades. We perform a correlation analysis in Azure's Machine Learning workspace by training regression models.",
-		"website": "achybl.com/AzureAutoML.pdf",
-		"year": 2022,
-		"month": "Nov",
+		"website": "link.springer.com/chapter/10.1007/978-3-031-47721-8_42",
+		"timeRange": "Nov 2022 - Jan 2024",
+		"year": 2024,
+		"month": "January",
 		"tags": ["Azure", "SQL", "Tableau"],
 		"bodyType": "image",
-		"imgSrc": "azurePaper.png"
+		"imgSrc": "azurePipeline.png"
 	},
 	{
 		"category": "academic",
