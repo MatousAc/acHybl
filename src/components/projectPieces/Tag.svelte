@@ -5,6 +5,7 @@
 		str = str.toLowerCase();
 		str = str.replaceAll('.', 'dot');
 		str = str.replaceAll('+', 'plus');
+		str = str.replaceAll('#', 'sharp');
 		return str;
 	};
 </script>
@@ -120,5 +121,14 @@
 	}
 	div.icon.julia {
 		background-color: #fff;
+	}
+	div.icon.csharp {
+		background-color: #7c2a7d;
+	}
+	div.icon.dotnet {
+		background-color: #3b84c0;
+	}
+	div.icon.xaml {
+		background-color: #67afee;
 	}
 </style>

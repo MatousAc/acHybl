@@ -107,5 +107,16 @@
 		"tags": ["Drupal", "PHP", "CSS"],
 		"bodyType": "image",
 		"imgSrc": "buriedTreasure.png"
+	},
+	{
+		"category": "academic",
+		"title": "Nepali Christian Hymnal",
+		"description": "Helped transfer a Nepali Hymnal and Bible application from Winforms to .NET MAUI.",
+		"website": "https://hymnal.somee.com/",
+		"year": 2023,
+		"month": "Dec",
+		"tags": [".NET", "C#", "XAML"],
+		"bodyType": "image",
+		"imgSrc": "bahjan.png"
 	}
 ]
