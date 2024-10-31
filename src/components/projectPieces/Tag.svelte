@@ -131,4 +131,7 @@
 	div.icon.xaml {
 		background-color: #67afee;
 	}
+	div.icon.wandb {
+		background-color: #000;
+	}
 </style>

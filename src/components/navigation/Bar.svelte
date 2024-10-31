@@ -18,8 +18,8 @@
 	const links = [
 		{ title: 'home', href: '/', target: '_self' },
 		{ title: 'resume', href: 'resume.pdf', target: '_blank' },
-		{ title: 'testimony', href: '/testimony', target: '_self' },
 		{ title: 'info', href: '/info', target: '_self' },
+		{ title: 'testimony', href: '/testimony', target: '_self' },
 		{ title: 'PBE', href: 'https://pbe.achybl.com/', target: '_self' }
 	];
 

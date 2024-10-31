@@ -1,25 +1,25 @@
 [
 	{
 		"category": "academic",
-		"title": "LLaMA 2 Training",
-		"description": "Training LLaMA on custom data for question and answer generation.",
-		"website": "pbe.achybl.com",
-		"timeRange": "Aug. 2023 - Present",
+		"title": "LLaMA 2 Fine-tuning",
+		"description": "I trainded LLaMA 2 on over 60,000 rows of custom data for question and answer generation. The resulting tool was acclaimed as saving \"a significant amount of time\".",
+		"timeRange": "Aug. 2023 - June 2024",
 		"year": 2024,
 		"month": "Nov",
-		"tags": ["Python", "HuggingFace", "AI"],
+		"tags": ["Python", "HuggingFace", "wandb"],
 		"bodyType": "image",
-		"imgSrc": "qagMethods.png"
+		"imgSrc": "qagSuccess.png"
 	},
 	{
 		"category": "work",
 		"title": "DevOps Engineering Intern - FTD Solutions",
 		"description": "Fully redesigned FTD's internal database. Created workflows for FTD and its clients in various platforms.",
-		"year": 2023,
+		"year": 2024,
 		"month": "June",
 		"timeRange": "May 2022 - Present",
 		"tags": ["SQL", "xQuery", "Tableau"],
-		"bodyType": "description"
+		"bodyType": "image",
+		"imgSrc": "dbSchemaShadow.png"
 	},
 	{
 		"category": "work",
