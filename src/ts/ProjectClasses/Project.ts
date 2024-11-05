@@ -13,6 +13,7 @@ export default abstract class Project {
 	description: string;
 	website?: string;
 	github?: string;
+	componentName?: string;
 	year: number;
 	month: Month;
 	timeRange?: string;
@@ -26,6 +27,7 @@ export default abstract class Project {
 		this.description = json.description;
 		if (json.website) this.website = json.website;
 		if (json.github) this.github = json.github;
+		if (json.componentName) this.componentName = json.componentName;
 		this.year = json.year;
 		if (isMonth(json.month)) {
 			this.month = json.month;

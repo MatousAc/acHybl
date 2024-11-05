@@ -18,8 +18,8 @@
 		"month": "June",
 		"timeRange": "May 2022 - Present",
 		"tags": ["SQL", "xQuery", "Tableau"],
-		"bodyType": "image",
-		"imgSrc": "dbSchemaShadow.png"
+		"bodyType": "component",
+		"componentName": "DBShadow"
 	},
 	{
 		"category": "work",
@@ -61,7 +61,8 @@
 		"year": 2023,
 		"month": "April",
 		"tags": ["Svelte", "Node.js", "Supabase"],
-		"bodyType": "unitplayground"
+		"bodyType": "component",
+		"componentName": "unitPlayground"
 	},
 	{
 		"category": "academic",

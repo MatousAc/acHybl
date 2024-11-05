@@ -13,6 +13,14 @@ export enum ProjectCategory {
 	other = 'other'
 }
 
+export enum BodyType {
+	image = 'image',
+	unitplayground = 'unitplayground',
+	githubCard = 'githubCard',
+	description = 'description',
+	component = 'component'
+}
+
 export enum Month {
 	Jan = 'Jan',
 	Feb = 'Feb',
@@ -104,9 +112,10 @@ export type ProjectJson = {
 	month: string | number | Month;
 	timeRange?: string;
 	tags: string[];
-	bodyType: 'image' | 'unitplayground' | 'githubCard' | 'description';
+	bodyType: BodyType;
 	imgSrc?: string;
 	library?: string;
+	componentName?: string;
 };
 
 export type ProjectFlags = {

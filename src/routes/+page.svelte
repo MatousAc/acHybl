@@ -6,7 +6,7 @@
 	import ImageProject from 'ts/ProjectClasses/ImageProject';
 	import GithubCardProject from 'ts/ProjectClasses/GithubCardProject';
 	import DescriptionProject from 'ts/ProjectClasses/DescriptionProject';
-	import UPProject from 'ts/ProjectClasses/UPProject';
+	import ComponentProject from 'ts/ProjectClasses/ComponentProject';
 	import type Project from 'ts/ProjectClasses/Project';
 	import {
 		Direction,
@@ -65,14 +65,14 @@
 				case 'image':
 					projects.push(new ImageProject(p, curSide, { ...flags }));
 					break;
-				case 'unitplayground':
-					projects.push(new UPProject(p, curSide, { ...flags }));
-					break;
 				case 'githubCard':
 					projects.push(new GithubCardProject(p, curSide, { ...flags }));
 					break;
 				case 'description':
 					projects.push(new DescriptionProject(p, curSide, { ...flags }));
+					break;
+				case 'component':
+					projects.push(new ComponentProject(p, curSide, { ...flags }));
 					break;
 				default:
 					projects.push(new ImageProject(p, curSide, { ...flags }));
