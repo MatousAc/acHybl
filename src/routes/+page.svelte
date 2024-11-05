@@ -97,7 +97,7 @@
 		<div
 			class="h-screen p-10 pb-0 flex flex-col justify-center items-center mt-[-2.5rem] md:sticky md:top-20 md:pt-0 wideMobile:mt-0"
 		>
-			<img class="rounded-full w-5/6 wideMobile:w-1/4 max-w-md" src="portrait.jpg" alt="Me" />
+			<img class="rounded-full w-5/6 wideMobile:w-1/4 max-w-md" src="portrait.jpeg" alt="Me" />
 			<H1>Ac Hýbl</H1>
 			<div class="flex flex-wrap justify-center gap-y-2 gap-x-4">
 				<a class="rounded-full" href="/resume.pdf"><Tag tag="Resume" /></a>
