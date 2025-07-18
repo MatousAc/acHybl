@@ -18,7 +18,8 @@
     "category": "academic",
     "title": "LLaMA 2 Fine-tuning",
     "description": "I trained LLaMA 2 on over 60,000 rows of custom data for question and answer generation. The resulting tool was acclaimed as saving \"a significant amount of time\".",
-    "timeRange": "Aug. 2023 - June 2024",
+    "website": "achybl.com/thesis.pdf",
+    "github": "https://github.com/MatousAc/qag",
     "year": 2024,
     "month": "Nov",
     "tags": [
