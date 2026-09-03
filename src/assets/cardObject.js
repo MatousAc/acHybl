@@ -65,9 +65,7 @@ class Card {
 		console.log(this.info);
 
 		if (this.isPrime()) {
-			console.log('marking as prime');
 			this.markAsPrime();
-			console.log('marked as prime');
 		}
 	}
 
