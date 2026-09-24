@@ -160,9 +160,8 @@ class Card {
         return this.category == 'legendary'
     }
 
-    junk() {
-        let junkBtn = this.container.getElementsByClassName('deckcard-junk-button')[0]
-        junkBtn.click()
+    getJunkBtn() {
+        return this.container.getElementsByClassName('deckcard-junk-button')[0]
     }
 
     giftPage() {
